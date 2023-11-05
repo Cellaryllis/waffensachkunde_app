@@ -1,0 +1,2385 @@
+1.1.02
+a*) wer damit schießt.
+b*) wer die Waffe verbringt oder mitnimmt.
+c*) wer die Waffe unbrauchbar macht.
+
+1.1.04
+a) Armbrust
+b*) Druckluftgewehr mit Zulassungszeichen „F im Fünfeck“
+c*) Doppelflinte
+
+1.1.05
+a*) Soft-Air-Waffen mit einer Geschossenergie über 0,5 Joule
+b*) Waffen mit einer Mündungsenergie von weniger als 7,5 Joule, bei denen die Geschosse durch Federdruck durch einen Lauf getrieben werden
+c) Präzisionsschleudern
+
+1.1.06
+a) Single-Action-Revolver
+b*) Selbstladepistole
+c) Doppelflinte
+d) Double-Action Revolver
+
+1.1.07
+a) eine vollautomatische Waffe.
+b*) keine halbautomatische Waffe.
+c) eine halbautomatische Waffe.
+
+1.1.08
+a*) WBK-pflichtige Schusswaffe
+b) Für Personen ab 18 Jahren frei erwerbbar
+c) Kann mit einem kleinen Waffenschein erworben werden
+
+1.1.10
+a*) Ein Zubehörteil der Schusswaffe ohne waffenrechtliche Bedeutung.
+b) Ein wesentlicher, erlaubnispflichtiger Teil der Schusswaffe.
+c) Ein wesentlicher, beschusspflichtiger Teil der Schusswaffe.
+
+1.1.11
+a*) Schusswaffen oder ihnen gleichgestellte Gegenstände.
+b*) Tragbare Gegenstände, die ihrem Wesen nach dazu bestimmt sind, die Angriffs- oder Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen, insbesondere Hieb- und Stoßwaffen.
+c*) Tragbare Gegenstände, die ohne dafür bestimmt zu sein, insbesondere wegen ihrer Beschaffenheit, Handhabung oder Wirkungsweise geeignet sind die Angriffs- oder Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen und die im Waffengesetz genannt sind.
+
+1.1.12
+a*) Langwaffen sind Schusswaffen, deren Lauf und Verschluss in geschlossener Stellung insgesamt länger als 30 cm sind und deren kürzeste bestimmungsgemäß verwendbare Gesamtlänge 60 cm überschreitet.
+b*) Schusswaffen, die eine Gesamtmindestlänge von 60 cm unterschreiten oder bei denen die Lauflänge kleiner als 30 cm ist, werden als Kurzwaffe bezeichnet.
+c) Kurzwaffen haben maximal eine Länge von 20 cm.
+
+1.1.13
+a) Blasrohr, Harpune, Armbrust
+b) halbautomatisches Gewehr / halbautomatische Pistole
+c*) Schlagring, Stockdegen, Würgeholz (Nun-Chaku)
+d*) Wurfsterne, bestimmte Hartkernmunition, bestimmte Leuchtspurmunition
+
+1.1.14
+a) Samuraischwert
+b) feststehendes Messer mit einer Klinge von mehr als 8,5 cm
+c*) Vorderschaftrepetierflinte mit einer Lauflänge unter 45 cm
+
+1.1.15
+a) Schusswaffen mit Schalldämpfer
+b*) Schusswaffen, die Reihenfeuer (Dauerfeuer) schießen.
+c*) Für Schusswaffen bestimmte Vorrichtungen, die das Ziel beleuchten.
+d*) Vorderschaftrepetierflinten deren Gesamtlänge in der kürzesten Verwendungsform weniger als 95 cm beträgt.
+
+1.1.16
+a) Schalldämpfer
+b*) Distanz-Elektroimpulsgeräte
+c*) für Schusswaffen bestimmte Zielscheinwerfer
+d*) Kleinkaliberpatronen mit Leuchtspurgeschossen
+e) Teleskopschlagstöcke
+f*) Büchsenpatronen mit Treibspiegelgeschossen
+
+1.1.17
+a*) Feuerwaffen mit Dauerfeuereinrichtung
+b) Spielzeugwaffen
+c) Schusswaffen mit Schalldämpfer
+
+1.1.18
+a) ein Fallmesser.
+b) eine vollautomatische Pistole.
+c*) eine zivile halbautomatische Schusswaffe, die wie eine vollautomatische Kriegswaffe aussieht.
+
+1.1.19
+a*) der Lauf
+b) das Magazin
+c*) der Verschluss
+d*) das Griffstück mit Auslösemechanismus bei Kurzwaffen
+e*) die Trommel eines Revolvers
+f*) das Gehäuse bei Langwaffen
+g) das Zielfernrohr
+
+1.1.20
+a) Der Schalldämpfer ist ein verbotener Gegenstand.
+b) Der Schalldämpfer ist immer erlaubnisfreies Zubehör.
+c*) Der Schalldämpfer für eine erlaubnispflichtige Schusswaffe steht waffenrechtlich der Schusswaffe gleich für die sie bestimmt ist.
+
+1.1.21
+a*) Zielscheinwerfer
+b) Leuchtpunktvisiere für Kurzwaffen
+c*) Nachtzielgeräte
+
+1.1.22
+a) Hohlspitzpatronen
+b) Kleinschrotpatronen
+c*) Leuchtspurpatronen
+
+1.1.23
+a*) Kleinschrotmunition für Kartuschenlager bis 12,5 mm (sog. Grenaille-Patronen)
+b) Patronenmunition mit Vollmantelgeschossen, bei denen die Geschossspitze entfernt wurde, so dass der Bleikern freiliegt
+c*) Patronenmunition mit Treibspiegelgeschossen für Waffen mit gezogenen Läufen
+
+1.1.24
+a) Ja, denn es handelt sich um ein Dum-Dum-Geschoss.
+b*) Nein, es ist Scheibenmunition.
+
+1.1.25
+a) Wechseltrommel für Revolver
+b*) Klappschaft für Flinten
+c*) Ersatzmagazin für Büchsen
+
+1.1.26
+a) halbautomatische Pistole
+b*) Doppelflinte
+c) Schreckschussrevolver
+
+1.1.27
+a*) Double-Action-Revolver
+b*) Repetierbüchse
+c) Doppelflinte
+
+1.1.28
+a) Einzelladerwaffen
+b*) Repetierwaffen
+c) halbautomatische Waffen
+
+1.1.29
+a) Platzpatronen
+b*) Bleirundkugeln für Vorderlader
+c) CO2 - Kartuschen für Druckluftwaffen
+
+1.1.31
+a*) Patronenmunition
+b*) hülsenlose Munition
+c*) pyrotechnische Munition
+
+1.1.32
+a) Stahlkugeln für Präzisionsschleudern
+b*) Patronenmunition Kaliber .38 Special
+c) .177 (4,5 mm) Rundkugeln
+
+1.1.33
+a) Hohlspitzgeschosse für Kurzwaffen
+b) Armbrustbolzen
+c*) Schrotpatronen
+
+1.1.34
+a*) Geschosse für Druckluftgewehre (Diabolos)
+b) Platzpatronen für Schreckschusswaffen
+c*) Zündhütchen für Vorderladerwaffen mit Zündhütchenzündung (Perkussion)
+
+1.1.35
+a*) Platzpatronen
+b) Munition mit Betäubungsmittel für die Distanzinjektion
+c) Zentralfeuerpatronen mit wiederladbaren Hülsen
+
+1.1.37
+a) Abschluss eines Kaufvertrages
+b) Einsetzen als Erbe im Testament
+c*) Erlangen der tatsächlichen Gewalt über die Waffe
+
+1.1.38
+a*) Der Dieb, der die Waffe stiehlt.
+b) Derjenige, der in einem Waffengeschäft lediglich den Kaufvertrag für eine Waffe unterschreibt.
+c*) Der Finder, wenn er die Waffen an sich nimmt.
+
+1.1.39
+a*) Beide haben eine Erlaubnis zum Erwerb (Voreintrag) der jeweiligen Waffe zu beantragen.
+b) Die Waffen können getauscht werden. Dies ist aber der zuständigen Behörde innerhalb von 14 Tagen anzuzeigen.
+c*) Es handelt sich um ein gegenseitiges Überlassen und Erwerben.
+
+1.1.40
+a*) Bei unrechtmäßiger Aneignung.
+b) Waffenrechtlicher Erwerb liegt erst bei behördlichem Eintrag der Waffe in die WBK vor.
+c*) Wenn der Waffenhändler dem Schützen die Waffe im Geschäft übergibt.
+
+1.1.41
+a*) Jeder, der die tatsächliche Gewalt über die Waffe erlangt.
+b*) Jeder, der sich die Waffe für einen Zeitraum von weniger als 4 Wochen ausleiht.
+c) Jeder, der die tatsächliche Gewalt über die Waffe ausübt.
+
+1.1.42
+a) Bei dem Abschluss eines Kaufvertrages.
+b) Bei der Vorlage der Waffenbesitzkarte des Käufers zum Eintrag der Waffe bei seiner zuständigen Behörde.
+c*) Bei der Aushändigung der Waffe durch den Verkäufer.
+
+1.1.43
+a) Vererben einer Schusswaffe (nach dem Tod).
+b*) Wer einem anderen die tatsächliche Gewalt darüber einräumt.
+c*) Verleihen einer Vereinswaffe (für wenige Tage) an einen anderen Verein.
+
+1.1.44
+a*) Derjenige, der vor einem Prüfungsausschuss die Sachkundeprüfung erfolgreich abgelegt hat.
+b) Soldaten, die mehrere Jahre mit Wartung, Pflege und Lagerung von Handfeuerwaffen betraut waren.
+c*) Derjenige, der erfolgreich seine Gesellenprüfung im Büchsenmacherhandwerk abgelegt hat.
+
+1.1.46
+a) in der eigenen Wohnung.
+b*) außerhalb des eigenen befriedeten Besitztums.
+c) durch den Waffenhändler im Geschäftsraum.
+
+1.1.47
+a) in der eigenen Wohnung im Holster getragen wird.
+b*) im Treppenhaus eines fremden Mehrfamilienhauses im Holster getragen wird.
+c*) im eigenen PKW in der offenen Seitenablage transportiert wird.
+
+1.1.48
+a*) Die Zuverlässigkeit wird von der zuständigen Behörde geprüft.
+b*) Es werden Auskünfte aus dem Bundeszentralregister, dem zentralen staatsanwaltschaftlichen Verfahrensregister und einer Stellungnahme der örtlichen Polizeidienststelle eingeholt. Zudem werden Auskünfte bei den zuständigen Verfassungsschutzämtern eingeholt.
+c) Die Zuverlässigkeit wird durch die persönliche Vorstellung bei der örtlichen Behörde festgestellt.
+
+1.1.49
+a*) Jeder, der wegen einer vorsätzlich begangenen Straftat zu einer Geldstrafe von mindestens 60 Tagessätzen verurteilt wurde.
+b*) Jeder, der wegen der Begehung von zwei verschiedenen vorsätzlichen Straftaten zu Geldstrafen in Höhe von jeweils 30 Tagessätzen verurteilt wurde.
+c) Jeder, der wegen einer vorsätzlichen Geschwindigkeitsüberschreitung seinen Führerschein für mehr als 60 Tage abgeben musste.
+
+1.1.50
+a*) Jeder, bei dem Tatsachen die Annahme rechtfertigen, dass er abhängig von berauschenden Mitteln ist.
+b) Jeder, der aus einem anerkannten Schießsportverband ausgeschlossen wurde.
+c*) Jeder, bei dem Tatsachen die Annahme rechtfertigen, dass er aufgrund in der Person liegender Umstände mit Waffen oder Munition unsachgemäß umgehen wird.
+
+1.1.52
+a) Grundsätzlich alle Personen unter 25 Jahren, wenn sie kein amts- oder fachärztliches oder fachpsychologisches Zeugnis über ihre geistige und körperliche Eignung vorlegen können.
+b*) Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie psychisch krank oder debil sind.
+c*) Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie alkoholabhängig sind.
+
+1.1.53
+a*) Waffen oder Munition verbringt, wer diese über die Grenze zum dortigen Verbleib oder mit dem Ziel des Besitzwechsels in den, durch den oder aus dem Geltungsbereich des WaffG zu einer anderen Person oder zu sich selbst transportieren lässt oder selbst transportiert.
+b) Waffen werden dauerhaft in einen anderen Mitgliedstaat mit einem Europäischen Feuerwaffenpass verbracht.
+c) Waffen werden mit einem Europäischen Feuerwaffenpass zu einer Schießsportveranstaltung in einem anderen Mitgliedstaat mitgenommen.
+
+1.1.54
+a) Einen europaweit gültigen Waffenschein für gefährdete Personen, die gegenüber dem Bundesverwaltungsamt ein besonderes Schutzbedürfnis glaubhaft gemacht haben.
+b) Eine europaweit gültige Waffenbesitzkarte, die die Waffenmitnahme auf Reisen in Mitgliedstaaten der EU gestattet.
+c*) Ein von der EU standardisiertes Waffenbesitzdokument (gegebenenfalls ist vor der Einreise in einen anderen Mitgliedstaat dessen Erlaubnis zur Mitnahme einzuholen).
+
+1.1.55
+a*) wenn sie unmittelbar, also mit wenigen schnellen Handgriffen, in Anschlag gebracht werden kann.
+b) wenn sie im abgeschlossenen Koffer im Kfz untergebracht ist.
+c) wenn sie ungeladen in der verschlossenen Schublade liegt.
+
+1.1.58
+a) Wenn sie griffbereit, aber ungeladen im Holster getragen wird.
+b) Wenn das Schlagstück / der Schlagbolzen bei entladener Waffe gespannt und entsichert ist.
+c*) Wenn sie geladen ist.
+
+1.1.59
+a*) Wenn die Waffe geladen und gespannt ist.
+b*) Wenn die Waffe geladen, aber entspannt und gesichert ist.
+c*) Wenn ein gefülltes Magazin eingeführt ist.
+d) Wenn das gefüllte Magazin griffbereit liegt.
+
+1.1.60
+a) Wenn sie ungeladen im Holster getragen wird.
+b*) Wenn sie in einem verschlossenen Koffer liegt und sich eine Patrone im Patronenlager befindet.
+c*) Wenn das Magazin in der Waffe mit Patronen gefüllt ist und die Waffe im unverschlossenen Handschuhfach eines PKW liegt.
+
+1.1.62
+a) Kleiner Waffenschein
+b*) behördliche Schießerlaubnis
+c) Waffenbesitzkarte
+
+1.1.63
+a) Der Schütze darf die Waffe in der fremden Wohnung mit Einwilligung des Hausrechtsinhabers zu Schutzzwecken führen.
+b*) Der Schütze transportiert seine defekte Schusswaffe zur Reparatur zum Büchsenmacher.
+c) Die Schusswaffe wird am Wohnort des Schützen von ihm über mehrere Tage in einem Autotresor im Kofferraum des PKWs transportiert.
+
+1.1.64
+a*) Sportliches Schießen liegt dann vor, wenn nach festen Regeln einer genehmigten Sportordnung geschossen wird.
+b) Sportliches Schießen liegt dann vor, wenn nach einer nicht genehmigten Sportordnung geschossen wird.
+c) Sportliches Schießen liegt dann vor, wenn man in einer Gruppe Paintball spielt.
+
+1.1.67
+a*) Waffenart, Bezeichnung der Munition oder des Kalibers, Hersteller- / Warenzeichen oder Marke, Modellbezeichnung, Herstellungsnummer und Tag des Überlassens, sowie der Name und die Anschrift des Überlassers.
+b) Waffenart, Kaliber, Hersteller- oder Warenzeichen, Beschusszeichen, Seriennummer und Tag des Überlassens, sowie der Name und die Personalausweisnummer des Überlassers.
+c) Waffenart, Kaliber, Hersteller- oder Warenzeichen, Nummer der Waffenherstellungserlaubnis und Tag des Überlassens, sowie der Name und die Waffenbesitzkartennummer des Überlassers.
+
+1.1.68
+a*) er seit mindestens 12 Monaten den Schießsport in einem Verein regelmäßig als Sportschütze betreibt.
+b) er seine Sammlung vervollständigen möchte.
+c*) die Waffe für eine Disziplin nach der Sportordnung des Schießsportverbandes zugelassen und erforderlich ist.
+
+1.1.69
+a*) Wenn der Inhaber nicht mehr zuverlässig im Sinne des Waffengesetzes ist.
+b*) Wenn der Inhaber kein Bedürfnis mehr nachweisen kann.
+c) Wenn der Inhaber seinen Wohnort in ein anderes Bundesland verlegt.
+
+1.1.73
+a*) Ja, wenn es sich um einen eingetragenen Verein handelt.
+b) Nein.
+c) Ja, jedem Verein.
+
+1.1.74
+a) 6 Monate
+b*) 1 Jahr
+c) unbefristet
+
+1.1.75
+a) 1 Jahr
+b) 3 Jahre
+c*) unbefristet
+
+1.1.76
+a) 1 Jahr
+b*) 3 Jahre
+c) 5 Jahre
+
+1.1.78
+a) mindestens 6 Monate
+b*) mindestens 12 Monate
+c) mindestens 18 Monate
+
+1.1.79
+a) 21 Jahre
+b*) 25 Jahre
+c) 27 Jahre
+
+1.1.80
+a*) 18 Jahre
+b) 21 Jahre
+c) 25 Jahre
+
+1.1.86
+a*) Schusswaffen, die ihrer äußeren Form nach im Gesamterscheinungsbild den Anschein von Feuerwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 2.1 WaffG) hervorrufen und bei denen zum Antrieb der Geschosse keine heißen Gase verwendet werden.
+b*) Nachbildungen von Schusswaffen mit dem Aussehen der o.g. Schusswaffen
+c*) unbrauchbar gemachte Schusswaffen mit dem Aussehen der o.g. Schusswaffen
+
+1.1.87
+a) Sportgewehr .223 Remington, das wie ein Sturmgewehr aussieht ohne Zulassungszeichen
+b) Schreckschuss-, Reizstoff- und Signalpistole mit Zulassungszeichen „PTB im Kreis“
+c*) Spielzeugpistole, die äußerlich einer echten Pistole im Kaliber 9mm Luger zum Verwechseln ähnlich sieht
+
+1.1.88
+a) Messer mit einer 14 cm langen, aber nur einseitig geschliffenen Klinge.
+b*) Nach waffenrechtlichen Vorschriften unbrauchbar gemachtes altes Armeegewehr mit Zulassungszeichen „Ortszeichen in der Raute“.
+c) Stockflinte (als Spazierstock getarnte Flinte, früher angeblich oft von Wilderern benutzt)
+
+1.1.89
+a) Anscheinswaffen dürfen an Silvester geführt werden.
+b*) Anscheinswaffen dürfen geführt werden, bei der Verwendung bei Foto-, Film oder Fernsehaufnahmen oder bei Theateraufführungen.
+c) Anscheinswaffen dürfen immer verdeckt geführt werden.
+
+1.1.90
+a) Der Schaft eines Gewehres wird auf ein für den Schützen passendes Maß abgefräst.
+b) Die gebrochene Schließfeder einer Pistole wird ausgetauscht.
+c*) Der Lauf eines Revolvers wird von einem befreundeten Schlosser auf 4 Zoll verkürzt.
+
+2.1.01
+a) Er muss einen lizenzierten Waffenhändler einschalten.
+b) Er muss den Kauf der zuständigen Behörde unter Vorlage des Kaufvertrages mitteilen.
+c*) Er muss innerhalb von zwei Wochen bei der zuständigen Behörde den Erwerb schriftlich oder elektronisch anzeigen und seine Waffenbesitzkarte zur Eintragung vorlegen.
+
+2.1.02
+a) Nichts
+b*) Er muss den Erwerb innerhalb von zwei Wochen schriftlich oder elektronisch anzeigen und seine Waffenbesitzkarte bei der zuständigen Behörde vorlegen.
+c) Beide Waffenbesitzkarten sofort der zuständigen Behörde vorlegen.
+
+2.1.03
+a) binnen einer Woche
+b*) binnen zwei Wochen
+c) binnen eines Monats
+
+2.1.04
+a) Ein 18-jähriger, der ein Kleinkalibergewehr erwerben möchte.
+b) Ein 19-jähriger, der eine Doppelflinte im Kaliber 12/70 erwerben möchte.
+c*) Ein 22-jähriger, der einen großkalibrigen Revolver erwerben möchte.
+
+2.1.05
+a) Waffenschein
+b*) Jagdschein
+c) Europäischer Feuerwaffenpass
+
+2.1.06
+a*) Sportschützen-WBK (gelbe WBK) (ohne Voreintrag)
+b) allgemeine WBK -grün(ohne Voreintrag)
+c*) Waffenhandelserlaubnis (uneingeschränkt)
+
+2.1.07
+a) Waffenschein
+b*) Waffenbesitzkarte für Sportschützen (gelbe WBK)
+c) Waffenerwerbsschein
+
+2.1.08
+a) Waffenschein
+b) Waffenbesitzkarte für Sportschützen
+c*) Waffenbesitzkarte mit Erwerbsberechtigung (Voreintrag)
+
+2.1.09
+a) der Erwerb der Waffe innerhalb eines Jahres der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.
+b) der Erwerb der Waffe innerhalb von vier Wochen der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.
+c*) der Erwerb der Waffe innerhalb von zwei Wochen der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.
+
+2.1.10
+a*) Erlaubnisbehörde
+b) Deutscher Schützenbund
+c) Bundeszentralregister
+
+2.1.11
+a*) Unverzüglich den Verlust der zuständigen Waffenbehörde melden.
+b) Innerhalb eines Monats den Verlust der zuständigen Behörde melden.
+c) Eine Verlustanzeige bei der zuständigen Polizeidienststelle aufgeben.
+
+2.1.12
+a*) Das Abhandenkommen ist unverzüglich der zuständigen Behörde anzuzeigen.
+b) Eine Ersatzausfertigung ist zu beantragen.
+c) Solange das Dokument nicht genutzt wird ist nichts weiter zu veranlassen.
+
+2.1.13
+a*) Der Verlust ist unverzüglich der zuständigen Behörde mitzuteilen.
+b) Die Versicherung ist umgehend in Kenntnis zu setzen, damit diese die Polizei verständigen und alle weiteren Maßnahmen einleiten kann.
+c) Sämtliche denkbaren Maßnahmen zur Wiedererlangung der Schusswaffe und der WBK sind einzuleiten.
+
+2.1.14
+a) Nein, nur wenn gegen mich ein Verfahren eingeleitet wurde.
+b*) Ja
+c) Nein, nur bei Fragen zur Aufbewahrung.
+
+2.1.15
+a) Nein, solange Waffenbesitzkarte und Munitionserwerbschein gültig sind.
+b) Ja, nur im Rahmen eines Strafverfahrens.
+c*) Ja, aus begründetem Anlass.
+
+2.1.16
+a*) Für Deutsche im Sinne des Artikels 116 des Grundgesetzes, die ihren gewöhnlichen Aufenthalt im Ausland haben (Auslandsdeutsche).
+b) Für ausländische Staatsangehörige innerhalb der Bunderepublik Deutschland.
+c) Im Rahmen der Sportförderung für Profisportler (Sportschützen).
+
+2.1.17
+a) einen Austauschlauf
+b) ein Wechselsystem
+c*) ein Abzugssystem
+
+2.1.18
+a) Ja, wenn damit nachweislich dynamische Disziplinen (IPSC) absolviert werden.
+b) Ja, allerdings nur zu Trainingszwecken und nicht im Rahmen von Wettkämpfen.
+c*) Nein, da solche Magazine für Privatpersonen verboten sind.
+
+2.1.19
+a) Druckluftwaffe mit dem Zeichen „F im Fünfeck“
+b) Armbrust
+c*) Kurzwaffe mit Kaliber .357 SIG
+
+2.1.20
+a*) Waffenbesitzkarte mit Voreintrag
+b) Schießbuch
+c) Sportschützenausweis
+
+2.1.22
+a*) Druckluftwaffen, die das Zulassungszeichen „F im Fünfeck“ tragen.
+b*) Schreckschuss-, Reizstoff- und Signalwaffen, die das Zulassungszeichen „PTB im Kreis“ tragen.
+c) Spielzeugwaffen mit einer Mündungsenergie von mehr als 0,5 Joule (ohne „F im Fünfeck“).
+
+2.1.23
+a) Durch ein fachärztliches Gutachten.
+b) Durch eine Bescheinigung eines anerkannten Schießsportverbandes.
+c*) Es besteht keine Möglichkeit des Erwerbs in diesem Alter.
+
+2.1.24
+a*) Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine erlaubnis- und bedürfnispflichtige Großkaliberwaffe erwerben wollen.
+b) Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine Einzellader-Flinten bis Kaliber 12 erwerben wollen.
+c) Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine Schusswaffe bis Kaliber .22lr (mit Randzündung) erwerben wollen.
+
+2.1.25
+a) halbautomatische Pistole im Kaliber 9 mm Luger
+b) Double-Action-Revolver im Kaliber .357 Magnum
+c*) Bockflinte im Kaliber 12/70
+
+2.1.27
+a) halbautomatische Langwaffe
+b*) einläufige Einzellader-Kurzwaffe
+c) halbautomatische Kurzwaffe
+
+2.1.28
+a) Nein, Schalldämpfer sind im Bereich des sportlichen Schießens nur für Waffen bei denen Zentralfeuermunition genutzt wird gestattet.
+b) Ja, Waffen die Munition mit Randfeuerzündung verschießen dürfen immer mit einem Schalldämpfer ausgestattet werden.
+c*) Nein, ein Sportschütze darf für keine seiner Waffen einen Schalldämpfer nutzen.
+
+2.1.29
+a*) Keine
+b) Bis zu zehn
+c) Hier gibt es keine Einschränkungen.
+
+2.1.30
+a*) Bis zu zehn Waffen, die gemäß den gesetzlichen Vorgaben mit der gelben Waffenbesitzkarte erworben werden dürfen.
+b) Unbegrenzte Anzahl, jedoch nur wenn jeweils eine Bedürfnisbescheinigung des Verbandes vorliegt.
+c) Unbegrenzte Anzahl, jedoch dürfen keine halbautomatischen Pistolen damit erworben bzw. darin eingetragen werden.
+
+2.1.31
+a*) Zwei
+b) Eine
+c) Drei
+
+2.1.32
+a) Ja, für alle in der grünen WBK eingetragenen Waffen.
+b) Nein
+c*) Ja, jedoch unterliegen Schalldämpfer für erlaubnispflichtige Schusswaffen ebenfalls der Erlaubnispflicht.
+
+2.1.33
+a) Alle Druckluftwaffen, deren Geschossen eine Bewegungsenergie von weniger als 7,5 Joule erteilt wird.
+b*) Alle Druckluftwaffen, die vor dem 01.01.1970 hergestellt und in den Handel gebracht wurden.
+c*) Alle Druckluftwaffen mit dem Zulassungszeichen „F im Fünfeck“.
+
+2.1.34
+a) Der Aufdruck „Frei ab 18 Jahren“ ist auf allen wesentlichen Teilen der Waffe eingeprägt.
+b*) Auf der Waffe befindet sich das Zulassungszeichen (PTB im Kreis) oder das Zulassungszeichen (F im Fünfeck).
+c) Auf der Waffe befinden sich die Zulassungszeichen „PTB im Viereck“ und das Zulassungszeichen (F im Fünfeck).
+
+2.1.35
+a) Ja, in jedem Fall.
+b) Ja, wenn die Waffe mit „F im Fünfeck“ gekennzeichnet ist.
+c*) Nein, wenn die Waffe mit „F im Fünfeck“ gekennzeichnet ist.
+
+2.1.36
+a) Ja, der Durchmesser (das Kaliber) ist ja gleich.
+b) Nein, die Magnum-Patrone ist länger.
+c*) Nein, weil Sie keinen entsprechenden Voreintrag haben.
+
+2.1.37
+a) Reservisten der Bundeswehr
+b) Polizeibeamte
+c*) Personen mit Erwerbsberechtigung
+
+2.1.38
+a*) Derjenige, der eine Druckluftwaffe, deren Geschosse eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wurde und die mit dem Zulassungszeichen „F im Fünfeck“ gekennzeichnet ist, erwirbt.
+b*) Derjenige, der eine Schreckschuss-, Reizstoff- oder Signalwaffe mit dem Zulassungszeichen „PTB im Kreis“ erwirbt.
+c*) Derjenige, der eine Zündnadel-Pistole erwirbt, deren Modell vor dem 01.01.1871 hergestellt worden ist.
+
+2.1.39
+a*) Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend auf einem Schießstand zum dortigen Schießen erwirbt.
+b) Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend für einen Zeitraum von weniger als einem Monat von einem Berechtigten leiht.
+c) Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend von einem Berechtigten zur gewerbsmäßigen Beförderung, bzw. Lagerung übernimmt.
+
+2.1.40
+a) Europäischer Feuerwaffenpass
+b*) Jagdschein (nur für Langwaffenmunition)
+c) Polizeidienstausweis
+
+2.1.41
+a*) Waffenbesitzkarte, sofern eine Munitionserwerbsberechtigung eingetragen ist.
+b*) Gültiger Jagdschein (Langwaffenmunition)
+c*) Munitionserwerbsschein
+
+2.1.42
+a) Ja, wenn ich Sportschütze bin.
+b*) Nur, soweit für die eingetragenen Waffen die Erlaubnis zum Munitionserwerb in der WBK vermerkt ist.
+c) Nein, es ist immer zusätzlich ein Munitionserwerbsschein erforderlich.
+
+2.1.43
+a) Sportschützenausweis
+b*) Sportschützen-WBK (gelbe WBK)
+c) Sprengstofferlaubnis
+
+2.1.44
+a*) auch im Kaliber .38 Special.
+b) nur im Kaliber .357 Magnum.
+c) auch im Kaliber 9 mm Luger.
+
+2.1.45
+a) Ja, weil der Durchmesser nur einen minimalen Unterschied aufweist.
+b*) Nein
+c) Ja, aber ich muss später die Behörde informieren.
+
+2.1.46
+a) Ja, der Kaliberdurchmesser ist ja identisch.
+b) Nur, wenn der Händler mir die Munition überlässt.
+c*) Nein, nur Patronen im Kaliber 9 mm Luger.
+
+2.1.47
+a*) Für Munition mit Hohlspitzgeschossen
+b) Für Leuchtspurmunition
+c) Für Betäubungsmunition zu Angriffszwecken
+
+2.1.48
+a) Ja, Sprengstofferlaubnis erforderlich
+b*) Ja, Munitionserwerbsberechtigung erforderlich
+c) Nein
+
+2.1.49
+a*) Ja, auf dem Schießstand zum sofortigen Verbrauch lediglich auf dieser Schießstätte.
+b*) Ja, mit Erwerbsberechtigung
+c) Nein
+
+2.1.50
+a) Das ist waffenrechtlich erlaubt.
+b*) Das ist waffenrechtlich nicht erlaubt.
+c) WBK-Inhaber dürfen ihre Schusswaffen grundsätzlich immer tauschen.
+
+2.1.51
+a*) 2 Wochen
+b) 4 Wochen
+c) 1 Woche
+
+2.1.52
+a*) Ja, für einen von seinem Bedürfnis umfassten Zweck, aber nur vorübergehend, höchstens für einen Monat.
+b) Ja, ohne Zweckbindung, aber nur vorübergehend, für die Dauer von maximal einen Monat.
+c) Nein, es ist grundsätzlich eine behördliche Genehmigung erforderlich.
+
+2.1.53
+a) Überhaupt nicht. Ohne vorherige Erlaubnis ist das immer verboten.
+b) Das ist waffenrechtlich für die Dauer von bis zu sechs Wochen ohne weitere Voraussetzung erlaubt.
+c*) Das ist nur erlaubt, wenn man bereits eine WBK besitzt und der Erwerb vorübergehend ist (höchstens einen Monat).
+
+2.1.54
+a) Benachrichtigung des Nachlassgerichts
+b) Änderung der WBK des Verstorbenen
+c*) Beantragung einer WBK bei der zuständigen Waffenbehörde binnen eines Monats nach Annahme der Erbschaft
+
+2.1.55
+a*) Innerhalb eines Monats nach Annahme der Erbschaft die Ausstellung einer WBK beantragen, sofern die Schusswaffe nicht vorher einem Berechtigten überlassen oder unbrauchbar gemacht wird.
+b) Änderung der WBK des Verstorbenen beantragen.
+c*) Ein Erbe ohne waffenrechtliches Bedürfnis muss die geerbte Waffe blockieren lassen, soweit ein geeignetes Blockiersystem verfügbar ist.
+
+2.1.56
+a*) Ein Waffentausch ist gesetzlich nicht vorgesehen, jeder muss für die angestrebte Waffe erwerbsberechtigt sein und den Erwerb, sowie das Überlassen der anderen Waffe seiner zuständigen Behörde fristgerecht melden.
+b) Ein Waffentausch ist nur dann waffenrechtlich zulässig, wenn die Waffenart und das Kaliber gleich bleiben Anschließend ist die zuständige Behörde binnen von 14 Tagen zu informieren.
+c) Ein Waffentausch darf nur zwischen den Inhabern zweier gleichartiger Erlaubnisse im Rahmen des von ihrem Bedürfnis umfassten Zweckes erfolgen (z.B. nur zwei Sportschützen).
+
+2.1.57
+a) 18-jähriger Sportschütze für eine Kleinkaliberpistole (KK-Pistole)
+b) 21-jähriger Sportschütze für ein Kleinkalibergewehr (KK-Gewehr)
+c*) 24-jähriger Sportschütze für eine als erste Großkaliberwaffe zu erwerbende halbautomatische Pistole im Kaliber .45 ACP
+
+2.1.58
+a*) mehrschüssiger Vorderlader-Revolver
+b) CO2-Pistole mit Zeichen
+c) Gaspistole mit Zulassungszeichen
+
+2.1.59
+a*) Druckluftgewehre ohne Zulassungszeichen „F im Fünfeck“, die nach dem 01.01.1970 hergestellt wurden (ausgenommen DDR-Produktion).
+b*) Perkussionsrevolver, deren Modell vor dem 01.01.1871 entwickelt wurde.
+c*) Waffen in 4 mm M20 mit den Zulassungszeichen „F im Fünfeck“ und „PTB im Viereck“.
+
+2.1.60
+a) dem Inhaber einer WBK.
+b*) einer Person des persönlichen Vertrauens.
+c) einer Person mit bestandener Sachkundeprüfung.
+
+2.1.61
+a) Einem 12-jährigen, wenn eine schriftliche oder elektronische Einverständniserklärung des Sorgeberechtigten vorliegt.
+b*) Einem 14-jährigen, wenn eine schriftliche oder elektronische Einverständniserklärung des Sorgeberechtigten vorliegt.
+c) Einem 14-jährigen, aber nur wenn er Mitglied der Schützenjugend ist.
+
+2.1.62
+a) befreundeten Polizeibeamten
+b*) Inhabern einer Waffenbesitzkarte
+c) besonders vertrauenswürdigen Personen (z.B. Notar, Pfarrer)
+
+2.1.63
+a) Derjenige, der eine erlaubnispflichtige Kurzwaffe als Bewachungsunternehmer im Rahmen seiner Tätigkeit führt.
+b) Derjenige, der eine erlaubnispflichtige Kurzwaffe während einer traditionellen Brauchtumsveranstaltung (z.B. Schützenaufmarsch) führt.
+c*) Derjenige, der als Inhaber eines gültigen Jagdscheins eine erlaubnispflichtige Kurzwaffe während der berechtigten Jagdausübung führt.
+
+2.1.64
+a*) Schreckschuss-, Reizstoff- und Signalwaffen mit dem Zulassungszeichen „PTB im Kreis“ in der Öffentlichkeit (ausgenommen öffentliche Veranstaltungen) führen.
+b) Druckluft- und CO2-Waffen mit dem Zulassungszeichen „F im Fünfeck“ in der Öffentlichkeit (ausgenommen öffentliche Veranstaltungen) führen.
+c) Erlaubnispflichtige Schusswaffen lediglich vorübergehend, höchstens aber für einen Monat von einem Berechtigen zur sicheren Lagerung übernehmen.
+
+2.1.65
+a) Zum Erwerb von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.
+b) Zum Besitz von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.
+c*) Zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.
+
+2.1.66
+a) Kleiner Waffenschein in Verbindung mit einem gültigen Ausweis
+b) Waffenbesitzkarte in Verbindung mit Sportschützenausweis
+c*) Waffenschein oder behördliche Ausnahmegenehmigung
+
+2.1.67
+a*) Anscheinswaffen (originalgetreue Imitate von Feuerwaffen)
+b) Schweizer Taschenmesser und Gurtschneider
+c*) Feststehende Messer mit einer Klingenlänge über 12 cm und Einhandmesser
+
+2.1.68
+a) Für den Fall, dass man sich irgendwann einmal selbst verteidigen muss.
+b*) Beim Transport in einem verschlossenen Behältnis.
+c*) Sofern ein berechtigtes Interesse am Führen vorliegt (z. B. im Zusammenhang mit der Berufsausübung, der Brauchtumspflege, dem Sport oder einem allgemein anerkannten Zweck).
+
+2.1.69
+a) Wer eine erlaubnispflichtige Schusswaffe besitzt.
+b) Wer als Berechtigter mehr als drei Waffen zum Schießstand transportieren will.
+c*) Wer eine Schusswaffe außerhalb der eigenen Wohnung, Geschäftsräume, des befriedeten Besitztums oder der Schießstätte zugriffsbereit führen möchte.
+
+2.1.70
+a) Waffen mit dem Zeichen
+b*) Reizstoff-Sprühdosen mit dem Zeichen
+c) Waffen mit dem Zeichen
+
+2.1.71
+a) Transport einer erlaubnispflichtigen Waffe zum Schießstand
+b) Selbstschutz zu Hause
+c*) Zugriffsbereites Führen einer erlaubnispflichtigen Waffe auf der Straße
+
+2.1.72
+a) Druckluft-, Federdruck-, CO2 Waffen.
+b*) Schreckschuss-, Reizstoff-, Signalwaffen mit dem Zeichen „PTB im Kreis“ (PTB = Physikalisch-Technische Bundesanstalt).
+c) Feuerwaffen, die nicht zugriffs- und nicht schussbereit transportiert werden.
+
+2.1.76
+a) Wer eine „scharfe“ Waffe zu Hause führt.
+b*) Wer eine Druckluftpistole unverpackt auf dem Rücksitz im PKW mitnimmt.
+c) Wer mit der Armbrust auf einem Feld schießt.
+
+2.1.77
+a) doppelläufiges Steinschlossgewehr (Modell vor 1871)
+b*) Druckluftpistole mit einer Mündungsenergie bis zu 7,5 Joule
+c) Steinschloss-Duellpistole (Modell vor 1871)
+
+2.1.78
+a*) wer diese beim Schießen auf Schießstätten zu einem vom Bedürfnis umfassten Zweck oder im Zusammenhang damit verwendet.
+b) wer die Waffe als Sportschütze unverpackt auf dem PKW-Rücksitz zum Büchsenmacher bringt.
+c) wer die Waffe seinen Freunden auf der Straße zeigt.
+
+2.1.79
+a*) Ja
+b) Nein
+c) Nur, wenn ich noch nicht volljährig bin.
+
+2.1.80
+a) Baseballschläger
+b) Klappmesser mit 14 cm langer, nicht feststellbarer einseitig geschliffener Klinge.
+c*) Kochmesser mit 14 cm langer Klinge.
+d*) Samuraischwert
+e*) Schlagstock
+
+2.1.81
+a*) Ja, da Pfeilabschussgeräte nicht in der Anlage 2 Unterabschnitt 2 erlaubnisfreie Arten des Umgangsgenannt sind.
+b) Nein, sie sind waffenrechtlich wie Armbrüste einzuordnen.
+
+2.1.82
+a*) Das ist verboten.
+b) Änderungen am Schaft sind zulässig, wenn die Waffe danach noch mindestens 61 cm lang ist.
+c) Das ist nur Jägern erlaubt.
+
+2.1.83
+a) Personal-/Reisepass und Schützenausweis
+b) Waffenbesitzkarte und Waffenschein
+c*) Personalausweis oder Reisepass und Waffenbesitzkarte
+
+2.1.85
+a) Keine Dokumente erforderlich, da der Erwerb ja auch genehmigungsfrei ist.
+b*) Kleiner Waffenschein und Personalausweis oder Reisepass
+c) Waffenbesitzkarte und Personalausweis oder Reisepass
+
+2.1.86
+a) im nicht einsehbaren Handschuhfach eines Pkw befördert wird.
+b) versteckt am Körper getragen wird.
+c*) ungeladen im verschlossenen Waffenkoffer befördert wird, wenn der Transport zu einem vom Bedürfnis umfassten Zweck erfolgt.
+
+2.1.87
+a*) Ja, wenn er Inhaber einer WBK ist oder die Waffe gewerblich transportiert.
+b) Nein, das ist nicht erlaubt.
+c) Das muss immer erst bei der Behörde beantragt werden.
+
+2.1.90
+a) bei einer Schützenhochzeit zum Spalier stehen verwendet.
+b*) im verschlossenen Kofferraum des PKW, ungeladen und verpackt zum Schießstand fährt.
+c*) im verschlossenen Waffenkoffer zum Büchsenmacher transportiert.
+
+2.1.95
+a) Nur mit Waffenschein.
+b) Ja, wenn sie ungeladen und gesichert im Holster am Körper getragen wird.
+c*) Ja, wenn sie nicht zugriffsbereit und nicht schussbereit transportiert wird und dies vom Bedürfnis umfasst ist..
+
+2.1.96
+a*) ... sie entladen in der unverschlossenen Aktentasche mitgeführt wird.
+b*) ... sie geladen in einer verschlossenen Aktentasche mitgeführt wird.
+c*) ... sie sich entladen im unverschlossenen Handschuhfach eines PKW befindet und die Munition in einem Metallbehältnis mit Schwenkriegelschloss im Kofferraum mitgeführt wird.
+
+2.1.98
+a) Erlaubt ist das Führen eines Schreckschussrevolvers, wenn ich den Kleinen Waffenschein habe.
+b) Steinschlosspistole, weil diese nach dem WaffG ohnehin geführt werden darf.
+c*) Es dürfen keine Waffen im Sinne des § 1 Abs. 2 WaffG bei sich geführt werden.
+
+2.1.99
+a) Ja, ohne Einschränkung.
+b) Ja, mit Waffenbesitzkarte.
+c*) Ja, mit Verbringungserlaubnissen der zuständigen Behörden.
+
+2.1.100
+a) Nur, wenn man im Besitz einer in Deutschland gültigen Waffenbesitzkarte mit Voreintrag ist.
+b) Nur, wenn man im Besitz eines Europäischen Feuerwaffenpasses ist.
+c*) Nur, wenn man im Besitz der entsprechenden Verbringungserlaubnisse ist.
+
+2.1.101
+a*) Beim Verbringen von Waffen nach Deutschland müssen vor Grenzübertritt die erforderlichen Erlaubnisse (z.B. Verbringungserlaubnis) vorliegen.
+b*) Beim Verbringen von Waffen aus Deutschland müssen vor Grenzübertritt die erforderlichen Erlaubnisse des Ziellandes, der Bundesrepublik Deutschland und ggf. aller Transitländer vorliegen.
+c) Es genügt immer eine deutsche WBK.
+
+2.1.102
+a) Nichts, der Verkauf von erlaubnispflichtigen Schusswaffen in das europäische Ausland ist generell erlaubnisfrei.
+b) Der Waffenbesitzer lässt sich die Erwerbserlaubnis des Käufers vorlegen und überlässt diesem dann die Waffe. Der Käufer meldet die Waffe nach Erhalt in seinem Heimatland an. Anschließend schickt er dem Verkäufer eine Kopie der Anmeldung, damit dieser die Waffe bei seiner Behörde abmelden kann.
+c*) Er bittet den Käufer um Übersendung einer Erlaubnis des Empfängerlandes zur Einfuhr der Waffe. Anschließend beantragt der Verkäufer bei seiner zuständigen Behörde eine Erlaubnis zum dauerhaften Verbringen der Waffe ins Ausland. Erst nach Erlaubniserteilung darf die Waffe verbracht werden. (Die Behörde meldet die Erteilung der Ausfuhrerlaubnis dem Bundesverwaltungsamt, EUMeldedienst)
+
+2.1.103
+a) Ja, aber nur wenn sich in der Waffenbesitzkarte ein entsprechender Voreintrag der zuständigen Erlaubnisbehörde befindet.
+b) Ja, die Waffe ist innerhalb von 14 Tagen bei der zuständigen Erlaubnisbehörde anzumelden.
+c*) Nein, man benötigt vor der Einfuhr zunächst eine Verbringungserlaubnis seiner zuständigen Waffenbehörde und dann eine Verbringungserlaubnis des ausländischen Staates.
+
+2.1.105
+a) Zum dauerhaften Verbringen von Feuerwaffen in Mitgliedstaaten.
+b*) Zur Feuerwaffenmitnahme bei Reisen in Mitgliedstaaten, beispielsweise zur Teilnahme an schießsportlichen Veranstaltungen oder zur Jagd.
+c) Zur Feuerwaffenmitnahme bei Reisen in Mitgliedstaaten, muss ich die Reise mindestens 14 Tage vorher meiner zuständigen Erlaubnisbehörde schriftlich anzeigen.
+
+2.1.106
+a) Die Feuerwaffen können mit einem Europäischen Feuerwaffenpass verbracht werden.
+b) Eine Verbringungserlaubnis zum Verbringen in einen Mitgliedstaat ist nicht erforderlich.
+c*) Durch vorherige Verbringungserlaubnis des Mitgliedsstaates und darauf folgend einer Verbringungserlaubnis der zuständigen deutschen Waffenbehörde.
+
+2.1.107
+a*) Feuerwaffen werden dauerhaft ohne entsprechende Erlaubnisse zum Verbringen in einen Mitgliedstaat verbracht.
+b) Feuerwaffen werden ohne eine waffenrechtliche Erlaubnis zur Ausfuhr in einen Drittstaat verbracht.
+c*) Feuerwaffen werden mit einem Europäischen Feuerwaffenpasses dauerhaft in einen Mitgliedstaat verbracht.
+
+2.1.108
+a) Es ist nichts zu beachten.
+b) Es ist eine Ausfuhrerlaubnis der zuständigen Waffenbehörde erforderlich.
+c*) Außenwirtschaftsrechtliche Bestimmungen sind zu beachten (Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).
+
+2.1.109
+a) Ja
+b*) Nein. Eine Verbringungserlaubnis ist erforderlich.
+c) Ja, aber nur wenn eine Waffe entsprechenden Kalibers in den EFP eingetragen ist.
+
+2.1.110
+a) alle Schusswaffen
+b*) Grundsätzlich keine Schusswaffen, außer diejenigen, die vor dem 1. Januar 1891 hergestellt wurden oder für die von einem Beschussamt eine Bescheinigung darüber ausgestellt wurde, dass der Beschuss der Waffe nicht durchgeführt werden kann.
+c) Doppelflinten
+
+2.1.111
+a) Ja, das Probeschießen ist gestattet.
+b*) Nein, das ist niemals gestattet.
+c) Solche Schüsse sind nur durch die verantwortliche Aufsicht zulässig.
+
+2.1.112
+a) Neuwaffen nach 15 Jahren, bei Gebrauchtwaffen nach 10 Jahren.
+b) Ein Beschuss ist unter anderem dann erforderlich, wenn eine Waffe von einem gewerblichen Waffenhändler an einen Kunden verkauft wird.
+c*) Ein erneuter Beschuss muss immer dann erfolgen, wenn wesentliche Teile der Waffe verändert oder instand gesetzt wurden.
+
+2.1.113
+a) Die Erlaubnisbehörde ist immer zu unterrichten.
+b*) Die Erlaubnisbehörde ist zu unterrichten, wenn ein wesentliches Teil erworben wurde.
+c) Die Erlaubnisbehörde ist nie zu unterrichten.
+
+2.1.114
+a) Die Waffe wurde in England erneut beschossen, es ist nur noch der englische Beschuss gültig.
+b*) Die Waffe wurde bei einer erneuten Beschussprüfung als nicht mehr beschusstauglich befunden, der bereits vorhandene Beschussstempel ist ungültig.
+c) Die Waffe wurde für den Export nach Großbritannien erneut beschossen, da dort der deutsche Beschuss nicht gültig ist.
+
+2.1.115
+a*) ein neuer Lauf (kein Austauschlauf) wurde eingebaut
+b) Sportgriffschalen wurden montiert
+c*) der Verschluss wurde erneuert
+d*) die Schussfolge wurde geändert
+e*) der Lauf wurde mit Kompensatoröffnungen versehen
+f) das Abzugsgewicht wurde durch Einbau einer anderen Feder verringert
+
+2.1.116
+a) Nein, die Waffe braucht ein deutsches Beschusszeichen.
+b*) Ja, das französische Beschusszeichen ist anerkannt.
+c) Nein, die Waffe braucht ein amerikanisches Beschusszeichen.
+
+2.1.117
+a*) USA
+b) Ungarn
+c) Chile
+
+2.1.118
+a*) In Ihrem eingezäunten Garten, wenn sichergestellt ist, dass die Geschosse den Garten nicht verlassen können.
+b) In einem verlassenen Steinbruch (kein Geschoss kann das Gelände verlassen).
+c) Nur auf zugelassenen Schießständen.
+d*) Im eigenen Keller, wenn hierbei niemand gefährdet werden kann.
+
+2.1.119
+a) Nein
+b*) Ja, außerhalb von Schießstätten.
+c*) Nicht auf dafür zugelassenen Schießstätten.
+
+2.1.120
+a) Im Wald
+b) Außerhalb des befriedeten Besitztums
+c*) Auf dafür zugelassenen Schießstätten
+
+2.1.121
+a) Wenn der Schießstandbetreiber zustimmt.
+b*) Wenn der erforderlichen Aufsichtsperson das Einverständnis des/der Sorgeberechtigten vorliegt.
+c) Wenn die behördliche Ausnahmegenehmigung vorliegt.
+
+2.1.122
+a) mit 12 Jahren
+b) mit 14 Jahren
+c*) mit 17 Jahren
+
+2.1.123
+a*) Ein 13-jähriger darf mit Druckluft-, Federdruck- und CO2-Waffen schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis erklärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend ist.
+b) Ein 15-jähriger darf mit halbautomatischen Waffen bis Kaliber 9mm schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis er-klärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend.
+c*) Ein 15-jähriger darf mit Waffen für Randfeuerpatronen bis Kaliber 5,6 mm lfB (.22 l. r.) und einer Mündungsenergie von maximal 200 Joule und mit Einzellader-Langwaffen mit glatten Läufen im Kaliber 12 oder kleiner schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis erklärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend ist.
+
+2.1.124
+a) Wenn eine verantwortliche Aufsichtsperson anwesend ist, ist dies möglich.
+b) Nur unter Aufsicht eines Behördenvertreters.
+c*) Nein, der Schütze muss dafür mindestens 18 Jahre alt sein.
+
+2.1.125
+a*) Mit schriftlichem Einverständnis der Sorgeberechtigten bei Druckluftwaffen bis zu 7,5 Joule Bewegungsenergie.
+b) Hierfür ist die behördliche Genehmigung (§3 WaffG) erforderlich.
+c*) Mit schriftlichem Einverständnis der Sorgeberechtigten und unter Aufsicht einer hierfür geeigneten Person beim Schießen mit einem Kleinkalibergewehr (.22lr) mit maximal 200 Joule Mündungsenergie.
+
+2.1.126
+a) Das Kind darf nur mit der vereinseigenen Druckluftpistole schießen.
+b) Hierfür ist die behördliche Genehmigung (§3 WaffG) erforderlich.
+c*) Das Kind darf mit schriftlichem Einverständnis seiner Eltern und unter Aufsicht einer hierfür geeigneten Person schießen.
+
+2.1.127
+a*) Ja, nur wenn es die Sportordnung und die Schießstandzulassung erlauben.
+b) Nein, kombinierte Waffen sind vom sportlichen Schießen ausgeschlossen.
+c) Ja, ohne jede Einschränkung.
+
+2.1.128
+a) Auf dem eigenen Grundstück.
+b*) Auf dafür zugelassenen Schießständen.
+c) Nirgends, das ist gesetzlich verboten.
+
+2.1.129
+a) Waffenschein und Pass
+b) Waffenbesitzkarte und Sportschützenausweis
+c*) Schießerlaubnis, evtl. Waffenbesitzkarte und Personalausweis, bei Vorderladern: „Erlaubnis nach dem Sprengstoffgesetz“.
+
+2.1.130
+a) Nein, wenn die Sicherheit gewährleistet ist.
+b*) Ja, eine Erlaubnis zum Betrieb einer Schießstätte oder eine Schießerlaubnis.
+c) Nein, die des Hauseigentümers reicht aus.
+
+2.1.131
+a) Ich benötige einen kleinen Waffenschein.
+b) Es sind lediglich die Zeiten an Silvester zu beachten, an denen Pyrotechnisches Material gezündet werden darf.
+c*) Ich benötige einen Waffenschein und eine Schießerlaubnis.
+
+2.1.132
+a*) Nein
+b) Ja. Dies ist aber nur innerhalb der behördlich genehmigten „Knallzeit“ zulässig, wenn man sich zudem auf einem befriedeten Grundstück befindet.
+c) Ja. Dies ist aber nur innerhalb der behördlich genehmigten „Knallzeit“ zulässig, wenn man sich zudem auf seinem eigenen, befriedeten Grundstück befindet.
+
+2.1.133
+a) Ja, für Inhaber einer Munitionserwerbserlaubnis.
+b*) Ja, nur mit einer Erlaubnis nach § 27 Sprengstoffgesetz.
+c) Nein
+
+2.1.134
+a) für jeden erlaubt, der eine Waffensachkundeprüfung bestanden hat.
+b) für jeden erlaubt, der gefahrlos mit Schwarzpulver umgehen kann.
+c*) für jeden erlaubt, der die Fachkundeprüfung nach dem Sprengstoffgesetz nachgewiesen hat und dem durch die Behörde eine entsprechende Erlaubnis nach § 27 SprengG erteilt wurde.
+
+2.1.136
+a) Ja, durch die Sachkundeprüfung ist man berechtigt Hülsen wiederzuladen.
+b*) Nein, es ist eine Erlaubnis nach § 27 Sprengstoffgesetz erforderlich.
+c) Das Wiederladen von Hülsen ist immer erlaubt.
+
+2.1.137
+a) Schaftmodifizierung
+b) Änderung am Visier
+c*) Anbringen von Bohrungen an der Systemhülse zur Zielfernrohrmontage
+
+2.1.138
+a*) Änderung des Verschlusses von Rand- auf Zentralfeuer
+b) Aufsetzen eines Wechselsystems
+c) Anbringen von Sportgriffschalen
+
+2.1.139
+a*) Verkürzung des Laufes
+b*) Die Schussfolge der Waffe wird verändert.
+c*) Die Schusswaffe wird so geändert, dass andere Munition oder Geschosse mit anderem Kaliber aus ihr verschossen werden können.
+d*) Wesentliche Teile, zu deren Einpassung eine Nacharbeit erforderlich ist, werden ausgewechselt.
+e) Der gesamte Schaft wird getauscht.
+
+2.1.140
+a) zum Austausch eines Trainingsabzuges.
+b) zur Verwendung eines 10 Schussanstelle eines 5 Schuss- Magazins.
+c*) zur Änderung des Patronenlagers / Laufinneren auf ein größeres Kaliber.
+
+2.1.141
+a) Nur, wenn ich in der Metallbearbeitung erfahren bin.
+b*) Abzug, Visierung und Schaft dürfen von mir bearbeitet werden.
+c) Auch wesentliche Teile dürfen von mir geändert werden.
+
+2.1.142
+a*) den Gewehrlauf kürzen.
+b) eine Schaftkappe montieren.
+c) die Griffschalen austauschen.
+
+2.1.143
+a*) der Lauf mit Kompensatorbohrungen versehen wird.
+b) ein Balkenkorn eingesetzt wird.
+
+2.1.145
+a*) den Austritt unverzüglich der zuständigen Behörde melden.
+b) die Waffen des Mitgliedes in Verwahrung nehmen.
+c) nichts tun.
+
+2.1.146
+a*) Ja, wenn sie zur Standaufsicht berechtigt sind, dürfen sie ihre Kinder beaufsichtigen.
+b) Nein, das dürfen nur in der Kinderund Jugendarbeit ausgebildete Obhutspersonen.
+c) Ja, Sorgeberechtigte dürfen alle minderjährigen Schützen beim Schießbetrieb beaufsichtigen.
+
+2.1.147
+a*) Aufsichtspersonen im Verein registrieren.
+b*) Voraussetzungen der Sachkunde prüfen.
+c*) Ein Nachweisdokument ausstellen.
+
+2.1.148
+a) Ab 12 Jahren, wenn die Sorgeberechtigten schriftlich oder elektronisch dabei sind.
+b*) Ab 12 Jahren, sofern die Personensorgeberechtigten ihr Einverständnis erklärt haben und eine geeignete Aufsichtsperson zur Betreuung vorhanden ist.
+c) Ab 12 Jahren, wenn die Sorgeberechtigten schriftlich oder elektronisch ihr Einverständnis erklärt haben.
+
+2.1.149
+a) Alle Vereinsmitglieder
+b) Der Eigentümer der Schießstätte
+c*) Alle vom Betreiber bestellten Personen.
+
+
+2.1.152
+a*) Volljährigkeit, persönliche Eignung
+b*) Zuverlässigkeit, Sachkunde
+c*) Bei Aufsicht über Minderjährige die Eignung für Kinder- und Jugendarbeit
+
+2.1.153
+a*) Dafür Sorge zu tragen, dass von den Schützen und ihren Waffen keine Gefahr ausgeht.
+b) Die Betreuung von Zuschauern und Gästen.
+c) Überprüfen, ob der Verbandskasten aufgefüllt ist.
+
+1.3.01
+a) Bei allen offensichtlich unbrauchbaren und nicht mehr schussfähigen Waffen, die vor dem 01.01.1970 hergestellt wurden.
+b*) Bei allen Schusswaffen, die vor dem 01.04.2003 nach dem damals geltenden Waffenrecht unbrauchbar gemacht wurden.
+c) Bei allen Schusswaffen, deren Modell vor dem 01.01.1871 hergestellt oder entwickelt wurde.
+
+1.3.02
+a*) Bezeichnung der Munition
+b*) Herstellerzeichen
+c) Warnhinweis „Gefährlich…“
+
+1.3.03
+a) Name des Besitzers
+b*) Beschusszeichen
+c) Lauflänge
+
+1.3.04
+a*) Name, Firma oder Marke eines Waffenherstellers oder -händlers, der im Geltungsbereich dieses Gesetzes eine gewerbliche Niederlassung hat.
+b*) Landeskürzel des Herstellungslandes
+c*) die Bezeichnung der Munition; sofern keine Munition verwendet wird, die Bezeichnung der Geschosse
+d*) Beschusszeichen
+e*) Herstellungsnummer
+f*) bei Importwaffen unter anderem auch Einfuhrland (Länderkürzel) und Einfuhrjahr.
+
+1.3.05
+a*) PTB
+b) N seit 20.10.2014: CIP_N
+c*) BKA PTB...R
+
+1.3.07
+a) Hersteller- oder Händlerzeichen, Seriennummer, Modell, Bezeichnung der Munition
+b*) Hersteller- oder Händlerzeichen, Herstellungsland (Länderkürzel), Seriennummer, Beschusszeichen, Bezeichnung der Munition, bei Importwaffen unter anderem auch Einfuhrland (Landeskürzel) und Einfuhrjahr
+c) Hersteller- oder Händlerzeichen, Seriennummer, Herstellungsjahr, Bezeichnung der Munition
+
+1.3.08
+a*) Hersteller- oder Fertigungszeichen, Fertigungsserie, Patronendaten, Zulassungszeichen
+b) Herstellungsdatum, Patronenkaliber
+c) keine
+
+1.3.10
+a) Mindestens ein wesentliches Waffenteil muss entsprechend den gesetzlichen Vorgaben gekennzeichnet sein.
+b*) Alle wesentlichen Waffenteile müssen entsprechend den gesetzlichen Vorgaben gekennzeichnet sein.
+c) Es ist ausreichend wenn sich eine Seriennummer auf dem Lauf der Waffe befindet.
+
+1.3.11
+a) Kaliberangabe auf der Hülse
+b*) Herstellerzeichen auf der Hülse
+c) Kaliber und Herstellerzeichen auf der Hülse
+
+1.3.12
+a) Kaliberangabe und Geschossart auf dem Hülsenboden
+b) Herstellerzeichen auf dem Hülsenhals
+c*) Herstellerzeichen und Bezeichnung der Munition auf der Hülse
+
+1.3.13
+a*) Patrone mit Rand
+b) Randfeuerpatrone
+c) Patrone für Revolver (R = Revolver)
+
+1.3.14
+a) keine zusätzlichen Angaben erforderlich
+b*) auf der Hülse die Längenangabe 70
+c) Angabe der Anzahl der Schrote
+
+1.3.17
+a) Bezeichnung der Munition
+b) Randfeuer
+c*) Herstellerzeichen
+
+1.3.18
+a*) Herstellerzeichen, Bezeichnung der Munition, Fertigungsserie (Losnummer), Zulassungszeichen
+b) Herstellerzeichen, Bezeichnung der Munition, Anzahl der Patronen in der Packung, Herstellungsjahr, Zulassungszeichen
+c) Herstellerzeichen, Bezeichnung der Munition, Anzahl der Patronen in der Packung, Fertigungsserie (Losnummer), Herstellungsdatum
+
+1.3.19
+a) Bezeichnung der Munition und Geschossart
+b*) Bezeichnung der Munition und Herstellerzeichen
+c) Bezeichnung der Munition und Losnummer
+
+1.3.20
+a) Sicherheitsüberprüfung der Waffe beim zuständigen TÜV
+b) Die Waffe ist durch die PhysikalischTechnische Bundesanstalt auf Funktionsfähigkeit geprüft.
+c*) Die Waffe ist auf Haltbarkeit, Funktionssicherheit, Maßhaltigkeit und richtige Kennzeichnung durch ein anerkanntes Beschussamt geprüft.
+
+1.3.23
+a*) Auf dem Lauf
+b) Auf dem Schaft
+c) Auf dem Visier
+
+1.3.24
+a) Bundesadler V / CIP S seit 20.10.2014
+b*) Bundesadler N / CIP N seit 20.10.2014
+c) Bundesadler SP / CIP PN seit 20.10.2014
+
+1.3.25
+a*) Die Waffe ist behördlich geprüft und zum Schießen zugelassen.
+b) Die Gebühren sind bezahlt.
+c) Die Waffe ist gebraucht.
+
+1.3.26
+a*) Ein jetzt hergestellter Nachbau einer Steinschlosspistole (Original 18. Jhdt.)
+b) Ein Druckluftgewehr, das dem Geschoss eine Energie von ca. 10 Joule erteilt.
+c*) Ordonnanzgewehr aus dem 2. Weltkrieg
+d) Bauartgeprüfter Schreckschussrevolver im Kaliber bis 6 mm
+
+1.3.27
+a*) Beschusszeichen in Form eines Bundesadlers (seit 20.10.2014 CIPZeichen) mit darunter liegendem Kennbuchstaben für die Art des Beschusses.
+b*) Ortszeichen für das Beschussamt
+c*) Zahlen oder Buchstabencodierung für das Beschussdatum
+
+1.3.28
+a) Die Waffe ist für das Schießen mit allen Munitionssorten (Schwarzpulver und rauchloses Pulver) im entsprechenden Kaliber zugelassen. (PN = Prüfung Normal)
+b) Die Waffe ist für das Schießen mit allen Munitionssorten im entsprechenden Kaliber zugelassen, die mit rauchlosem Pulver geladen sind. (PN = Prüfung Nitro)
+c*) Die Waffe ist für das Schießen mit allen Munitionssorten im entsprechenden Kaliber zugelassen, die mit Schwarzpulver geladen sind. (PN = poudre noir)
+
+1.3.29
+a*) Die Waffe wird auf Haltbarkeit, Funktionssicherheit, Maßhaltigkeit und Kennzeichnung geprüft.
+b) Die Waffe wird auf Lebensdauer, Konstruktionsschlüssigkeit und Funktionstauglichkeit geprüft.
+c) Die Waffe wird auf Präzision, Fertigungstoleranzen und Materialhärte geprüft.
+
+1.3.30
+a*) Lauf, Verschluss
+b) Schaft, Visier
+c) Sicherung, Magazin
+
+1.3.31
+a*) Einsteckläufe für Zentralfeuerpatronen
+b*) Wechseltrommeln
+c*) Wechselsysteme
+
+1.3.32
+a) Ja, aller Staaten, die eine Sicherheitsprüfung vorschreiben.
+b*) Ja, aber nur Staaten, die dem Übereinkommen über die gegenseitige Anerkennung von Beschusszeichen und Prüfzeichen beigetreten sind (C.I.P.).
+c) Nein, alle Schusswaffen müssen vor ihrem Gebrauch von deutschen Beschussämtern geprüft sein.
+
+1.3.33
+a*) CSSR
+b*) DDR
+c*) Deutsches Reich (sollte sich ein Hakenkreuz auf der Waffe befinden, müsste das Hakenkreuz vom Beschussamt mit einem „X“ versehen werden)
+
+1.3.34
+a) Druckluftwaffen mit einer Bewegungsenergie bis zu 7,5 Joule.
+b) Schusswaffen mit kleinerem Kaliber als .22lr und einer Bewegungsenergie bis zu 10 Joule.
+c*) Feuerwaffen, deren Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird.
+
+1.3.35
+a) Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, die von volljährigen Personen erlaubnisfrei erworben werden dürfen.
+b*) Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, deren Geschossenergie E0 maximal 7,5 Joule beträgt.
+c) Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, deren Mündungsgeschwindigkeit unter 7,5 m/s. liegt.
+
+1.4.01
+a) In einem Waffenschrank der Sicherheitsstufe A nach VDMA 24992, sofern sich keine dazu passende Munition im Schrank befindet.
+b*) In einem Waffenschrank der Sicherheitsstufe B nach VDMA 24992, sofern sich keine dazu passende Munition im Schrank befindet wenn der Schrank bereits vor dem 06.07.2017 rechtmäßig vom Betroffenen zur Waffenaufbewahrung genutzt wurde.
+c*) In einem Waffenschrank der Norm DIN/EN 1143- 1 mit dem Widerstandsgrad 0.
+
+1.4.02
+a) Sicherheitsstufe B nach VDMA 24992, Schrankgewicht über 200kg
+b*) DIN/EN 1143- 1 Widerstandsgrad 0
+c) DIN/EN 1143- 1 Widerstandsgrad I
+
+1.4.03
+a) Wohnzimmerschrank mit Sicherheitsschloss
+b) Blechschrank mit Vorhängeschloss
+c*) Stahlblechbehältnis mit Schwenkriegelschloss
+
+1.4.04
+a) Ja, dies ist stets zulässig.
+b*) Ja, sofern eine dringende Gefahr für die öffentliche Sicherheit besteht.
+c) Ja, aber nur mit einem richterlichen Durchsuchungsbefehl.
+
+1.4.05
+a) an einem versteckten Ort.
+b) nur bei der Erlaubnisbehörde.
+c*) in einem Behältnis der entsprechenden Sicherheitsstufe.
+
+1.4.06
+a) Im Kleiderschrank
+b) In einer verschlossenen und alarmgesicherten Familienwohnung.
+c*) In einem Behältnis der entsprechenden Sicherheitsstufe.
+
+1.4.07
+a) versteckt im Bücherregal liegt.
+b) im abgeschlossenen Waffenkoffer im Schrank aufbewahrt wird.
+c*) in einem Behältnis der Norm DIN/EN 1143-1 Widerstandsgrad 0 oder I aufbewahrt wird.
+
+1.4.08
+a*) sich in einem abgeschlossenen Waffenschrank der Norm DIN/EN 1143-1 Widerstandsgrad 0 oder I befindet.
+b) im Gewehrständer steht.
+c) an der Wand hängt und mit einem Schloss gesichert ist.
+
+1.4.09
+a) Es besteht keine Pflicht zum Nachweis über die sichere Verwahrung.
+b*) Ja, wer Waffen oder Munition besitzt, hat der zuständigen Behörde die zur sicheren Verwahrung getroffenen Maßnahmen nachzuweisen.
+c) Nein, nur wenn mehr als 10 Schusswaffen im Besitz sind.
+
+1.4.11
+a*) Ja
+b) Nein
+
+1.4.12
+a*) Eine nicht ordnungsgemäße Aufbewahrung von Waffen stellt einen Straftatbestand im Sinne des Waffengesetzes dar.
+b) Verlust der persönlichen Eignung
+c) Die nicht ordnungsgemäße Aufbewahrung von Waffen stellt lediglich einen Ordnungswidrigkeitentatbestand dar.
+
+1.4.13
+a) Die Schusswaffe/n ist/sind immer am Körper zu tragen.
+b*) Ein wesentlicher Teil der Schusswaffe/n ist zu entnehmen und mit sich zu führen. Der Rest der Schusswaffe ist gegen unbefugten Zugriff zu sichern.
+c*) Aufbewahrung in einem Transportbehältnis oder in einem verschlossenen Schrank oder einem sonstigen verschlossenen Behältnis.
+
+1.4.14
+a*) Waffen und Munition sind in dem verschlossenen Fahrzeug so aufzubewahren, dass keine unmittelbaren Rückschlüsse auf die Art des Inhaltes erkennbar sind.
+b) Die Waffe/n darf/dürfen hierbei nicht im Fahrzeug verbleiben.
+
+1.4.15
+a) In einer Stahlkassette der Sicherheitsstufe A nach VDMA 24992.
+b*) In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992 oder einem Behältnis der Sicherheitsstufe DIN/EN 1143- 1 Widerstandsgrad 0 oder I.
+c) In einer Truhe mit Schwenkriegelschloss im verschlossenen Keller.
+
+1.4.16
+a) In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992.
+b*) In einem Sicherheitsbehältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I.
+c) In einem Sicherheitsbehältnis der Sicherheitsstufe A der Norm VDMA 24992.
+
+1.4.17
+a*) Munition ist im Stahlbehältnis mit Schwenkriegelschloss oder gleichwertigem Behältnis aufzubewahren.
+b*) Maximal 5 Kurzwaffen in einem Tresor mit Widerstandsgrad 0 (DIN/EN 1143- 1) bis 200 kg. Über 200 kg je 10 Kurzwaffen. Über 10 Kurzwaffen Widerstandsgrad I.
+c) Bis zu 10 Langwaffen je A-Schrank. Über 10 Langwaffen im B-Schrank.
+
+1.4.18
+a*) In einem Tresor der Sicherheitsstufe B mit mehr als 200 Kilogramm Gewicht (VDMA 24992) (wenn der Tresor bereits vor dem 06.07.2017 rechtmäßig vom Betroffenen zur Waffenaufbewahrung genutzt wurde).
+b*) In einem Tresor mit Widerstandsgrad 0 (DIN/EN 1143-1), dessen Gewicht mindesten 200 kg beträgt.
+c) In einem Tresor der Sicherheitsstufe A (VDMA 24992).
+
+1.4.19
+a) 5 Kurzwaffen
+b) 5 Langwaffen und 5 Kurzwaffen
+c*) 10 Langwaffen
+
+1.4.20
+a*) Ja, wenn er selbst auch eine WBK besitzt und über ein entsprechendes Behältnis verfügt.
+b) Nein, das ist nicht gestattet.
+c) Dies ist unter Vereinsmitgliedern gestattet.
+d) Ja, es ist ausreichend, dass er ein entsprechendes Behältnis besitzt.
+
+1.4.21
+a*) Waffenhändler
+b) Dem Nachbarn, der die Waffe in seiner Werkbank im Hobbyraum lagert.
+c*) Einem Inhaber einer Waffenbesitzkarte
+
+1.4.22
+a) In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992.
+b*) In einem Sicherheitsbehältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I.
+c) In einem Sicherheitsbehältnis der Sicherheitsstufe A der Norm VDMA 24992.
+
+1.4.23
+a) Ja, vollumfänglich
+b*) Nein, aber der Besitzer hat die erforderlichen Vorkehrungen zu treffen, um zu verhindern, dass diese abhanden kommen oder Dritte sie unbefugt an sich nehmen.
+
+1.5.03
+a) jede Abwehr eines gegenwärtigen und rechtswidrigen Angriffs von sich und anderen.
+b*) jede Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden.
+c) jede Verteidigung, die erforderlich ist, um jeden Angriff von sich oder einem anderen abzuwenden.
+
+1.5.04
+a*) Angreifer
+b) Zuschauer
+c) Angegriffener
+
+1.5.05
+a) nur auf Leib und Leben.
+b*) auf jedes Individual-Rechtsgut.
+c) nur gegen das Eigentum.
+
+1.5.06
+a*) Verteidigungslage
+b*) Verteidigungswille
+c*) Erforderlichkeit
+
+1.5.07
+a*) Rechtswidrigkeit
+b) Vorsatz
+c) Schuld
+
+1.5.08
+a*) bei Beleidigung.
+b) bei lebensgefährlichem tätlichem Angriff auf den Ehepartner.
+
+1.5.09
+a) wenn dem Angriff ausgewichen werden kann.
+b*) wenn der Angriff mit einem Messer erfolgt.
+c) wenn der Angreifer mit der Faust droht.
+
+1.5.10
+a) Nein, niemals
+b*) Ist der Einsatz eines milderen Mittels zur Abwehr des Angriffs möglich, ist der Schusswaffengebrauch nicht zulässig.
+c) Grundsätzlich ist dem Angegriffenen ein Ausweichen nicht zumutbar, da dies seine Ehre verletzt.
+
+1.5.11
+a) Ja, das ist Voraussetzung für einen rechtmäßigen Schusswaffengebrauch.
+b*) Ja, soweit die Umstände es erlauben.
+c) Nein, das ist nicht erforderlich.
+
+1.5.12
+a*) Nur wenn kein milderes Mittel zur Verfügung steht, um den Angriff abzuwehren.
+b*) Der Schusswaffengebrauch ist stets als allerletzter Ausweg aus einer bedrohlichen Situation zu betrachten.
+c) Ja, immer
+
+1.5.13
+a) Nein
+b*) Wenn möglich durch Zuruf und/oder Warnschuss.
+c) Das Zeigen der Waffe reicht aus, um den Angriff zu beenden.
+
+1.5.15
+a) Ja, immer
+b*) Nein, allenfalls bei einem Angriff auf Leben, Leib oder erhebliche Rechtsgüter des Einzelnen.
+c) Ja, auch wenn der Angriff durch mildere Mittel abgewehrt werden kann.
+
+1.5.16
+a) Bis der Angreifer weggelaufen ist.
+b*) Solange der Angriff andauert.
+c) Bis ich den Angreifer der Polizei übergeben habe.
+
+1.5.17
+a) Bis der Gegner bewusstlos bzw. geflüchtet ist.
+b*) Solange der Angriff andauert.
+c*) Bis ich gefahrlos dem Angriff ausweichen kann, wenn ich dadurch keine wesentlichen Rechtsgüter aufgeben muss.
+d) Auf jeden Fall bis die Polizei eintrifft.
+
+1.5.18
+a) Überschreitung der Notwehr.
+b) Ein gegenwärtiger, rechtswidriger Angriff wird von einem anderen Angegriffenen abgewehrt.
+c*) Irrtümliche Annahme einer Notwehrsituation.
+
+1.5.19
+a) Die Unversehrtheit meines Eigentums.
+b) Die Verteidigung mit allen Mitteln.
+c*) Eine angemessene Verteidigung. (Verhältnismäßigkeit)
+
+1.5.25
+a) Sie finden eine geladene Jagdwaffe im Wald.
+b*) Sie werden durch ein herrenloses Tier angegriffen.
+c) Sie werden durch eine Person angegriffen.
+
+1.5.27
+a*) gegenwärtige, nicht mit geringerem Eingriff abwehrbare Gefahr für ein Rechtsgut; wesentliches Überwiegen des geschützten Interesses
+b) Absicht, die Gefahr nicht von sich oder einem anderen abzuwenden
+c) gegenwärtiger rechtswidriger Angriff
+
+1.5.29
+a) von sich selbst abzuwenden.
+b*) von einem anderen abzuwenden.
+c) vom eigenen Auto abzuwenden.
+
+1.5.32
+a) Wenn er abgeschlossen ist.
+b*) Wenn er unmittelbar bevorsteht.
+c*) Solange er andauert.
+
+1.5.33
+a) Wenn zu befürchten ist, dass durch eine Drohung des Angreifers zukünftig eine Gefahr für Leib und Leben eintreten könnte.
+b*) Wenn ein Angriff unmittelbar bevorsteht oder noch nicht beendet ist.
+c) Wenn der Angreifer in die Flucht geschlagen ist, aber mit einem späteren Angriff droht.
+
+1.5.34
+a*) Es kann jeden Augenblick ein Schaden eintreten.
+b) Es wird vielleicht ein Schaden eintreten.
+c) Es ist ein Schaden eingetreten.
+
+1.5.36
+a) Ich habe keinerlei Pflichten gegenüber dem Angreifer.
+b) Ich bin zum Schadensersatz verpflichtet.
+c*) Wenn die Notwendigkeit erkennbar und die Situation zumutbar ist, habe ich Hilfe zu leisten.
+
+1.5.37
+a) Grundgesetz
+b) Waffengesetz
+c*) Strafgesetzbuch / BGB
+
+1.5.38
+a*) Notwehr
+b*) Nothilfe
+c*) Notstand
+
+1.5.39
+a) Freiheit
+b) Eigentum
+c*) Leib / Leben
+
+1.5.40
+a) in Notwehr.
+b) in Nothilfe.
+c*) in Notstand.
+
+1.5.42
+a*) Putativnotwehr (scheinbare Notwehr).
+b) Notstand.
+c) Notwehrexzess.
+
+1.5.43
+a) Der Einsatz der Schusswaffe war durch Notwehr gerechtfertigt.
+b*) Die Notwehr wurde überschritten (Notwehrexzess).
+c) Der Einsatz der Schusswaffe war durch Nothilfe gerechtfertigt. 
+
+2.1.03
+a) Durch einmaliges Betätigen des Abzuges kann ich mehrere Schüsse hintereinander abgeben.
+b*) Nach Abgabe eines Schusses wird die Büchse selbsttätig erneut schussbereit und es kann aus demselben Lauf durch erneute Betätigung des Abzuges jeweils ein weiterer Schuss abgegeben werden.
+c) Hierbei handelt es sich um eine Militärwaffe.
+
+2.1.04
+a*) Die Pistole hat ein Patronenlager im Lauf, der Revolver hat mehrere Patronenlager in der Trommel, getrennt vom Lauf.
+b) Der Revolver hat einen Hahn, eine Pistole nicht.
+c) Pistolen sind leichter gebaut als Revolver.
+
+2.1.06
+a) Ein Magazin im Griffstück.
+b*) Die Trommel ist zugleich Patronenlager und Magazin.
+c) Ein außenliegendes Schlagstück.
+
+2.1.07
+a) Trommel zur Aufnahme von Patronen
+b*) Magazin zur Aufnahme von Patronen
+c) Lauf vom Patronenlager getrennt
+
+2.1.08
+a*) Büchse für Kugelschuss, Flinte für Schrotschuss / Flintenlaufgeschosse.
+b) Büchsen haben Kammerstängel und Zylinderverschluss, Flinten haben immer einen Kipplauf.
+c) Keine Unterschiede.
+
+2.1.09
+a*) mit ihr Flintenmunition verschossen wird.
+b) sie einen gezogenen Lauf besitzt.
+c) Sie einen Kipplauf besitzt.
+
+2.1.10
+a) Laufverengung im Bereich des Patronenlagers
+b*) Laufverengung im Bereich der Mündung
+c) Rückstoß beim Schuss
+
+2.1.11
+a*) Mit halbautomatischen Waffen kann man mehrere Schüsse aus demselben Lauf abgeben, ohne dass man Patronen per Hand nachladen muss.
+b) Mit halbautomatischen Waffen kann man durch einmaliges Betätigen des Abzugs mehrere Schüsse aus demselben Lauf abgeben.
+c) Mit halbautomatischen Waffen kann man einen Schuss abgeben, dann muss stets eine neue Patrone aus dem Magazin per Hand durchgeladen werden.
+
+2.1.12
+a*) Eine Waffe, die nach Abgabe eines Schusses selbsttätig erneut schussbereit wird und bei der durch nochmalige Betätigung des Abzuges ein weiterer Schuss aus demselben Lauf abgegeben werden kann.
+b) Eine Waffe, die nach Abgabe eines Schusses durch manuelles Vor- und Zurückziehen des Verschlusshebels die leere Patronenhülse auswirft und eine neue Patrone aus dem Magazin zuführt.
+c) Eine Waffe, bei der nach Abgabe eines Schusses die leere Patronenhülse automatisch ausgeworfen wird, eine neue Patrone aber manuell per Hand geladen werden muss.
+
+2.1.13
+a*) Das Griffstück, oder sonstige Waffenteile von Kurzwaffen, soweit sie für die Aufnahme des Auslösemechanismus bestimmt sind.
+b*) Das Gehäuse
+c*) Der Verschluss
+d*) Das Patronen- oder Kartuschenlager (wenn dieses nicht bereits Bestandteil des Laufes ist)
+
+2.1.14
+a*) Lauf, Patronenlager, Verschluss, Gehäuse, Griffstück bei Kurzwaffen
+b) Patrone, Visierung, Abzug
+c) Magazin, Schaft, Schlagbolzen
+
+2.1.15
+a*) Verschluss
+b) Abzug
+c) Magazin
+
+2.1.16
+a*) Repetierwaffen haben immer ein Magazin.
+b*) Revolver haben immer eine Trommel.
+c) Pistolen haben immer ein Magazin.
+
+2.1.17
+a) Eine Waffe in einem Kaliber unter 40 mm.
+b*) Eine Waffe im Kaliber .22lr (.22 lfB).
+c) Eine Waffe mit einer Mündungsenergie unter 7,5 Joule.
+
+2.1.18
+a) Eine Repetierwaffe
+b) Eine halbautomatische Waffe
+c*) Eine Einzellader-Schusswaffe
+
+2.1.21
+a*) Zündhütchen, Treibladung, Hülse, Geschoss
+b) Pressling und Geschoss
+c) Hülse, Treibladung, Zündsatz
+
+2.1.22
+a) Alle Patronen mit Rand.
+b*) Alle Patronen mit Zündsatz im Hülsenrand.
+c) Alle Patronen mit speziellen Geschossen (z.B. Scharfrandgeschosse).
+
+2.1.23
+a*) Zentralfeuerzündung
+b*) Randfeuerzündung
+c) Vorratszündung
+
+2.1.24
+a) „R“ steht für „RASANT“.
+b*) „R“ steht für Rand.
+c) „R“ steht für „Randfeuerzündung“.
+
+2.1.25
+a*) Patrone ohne Zündhütchen
+b) Zündhütchen am Patronenboden
+c) Hülse aus Nickel
+
+2.1.26
+a) Eine Platzpatrone.
+b) Eine Patrone mit besonders geringer Treibladung.
+c*) Eine Patrone ohne Zündhütchen und ohne Ladung zum Üben.
+
+2.1.27
+a) Es handelt sich um eine ausländische Patrone.
+b*) Eine in ihrer Kaliberklasse besonders starke Patrone.
+c) Eine Patrone mit übergroßem Durchmesser.
+
+2.1.28
+a) Angabe über den Hersteller / Entwickler.
+b) Angabe über das Einführungsjahr, (1906
+militärisch eingeführt).
+c) Bei den Büchsenpatronen bedeutet der Zusatz „R“, dass die Hülse der Patrone einen Rand hat.
+
+2.1.29
+a) Der Durchmesser des Laufs beträgt 12 mm.
+b) In der Schrotpatrone befinden sich 12 gleich große Kugeln.
+c*) Die Zahl 12 ergibt sich aus der Anzahl der Bleikugeln vom Laufinnendurchmesser, die zusammen die Masse von einem englischen Pfund (453,6g) ergeben.
+
+2.1.30
+a) ist größer als Kaliber 12.
+b*) ist kleiner als Kaliber 12.
+c) entspricht dem internationalen Kalibermaß 2 x 8 mm.
+
+2.1.31
+a) Den Innendurchmesser des Laufes in Millimetern.
+b) Den Innendurchmesser des Laufes in Zoll (Inch).
+c*) Der Innendurchmesser des Laufes entspricht dem Durchmesser einer Bleikugel mit dem Gewicht eines zwölftel (1/12) Pfundes (englisches Maß, ca. 454 Gramm) Blei -> es handelt sich also um einen „Zwölftelpfünder“.
+
+2.1.32
+a*) Wenn die Angaben auf der kleinsten Verpackungseinheit mit den Angaben auf der Waffe übereinstimmen.
+b) Wenn man die Munition von einem Sportwaffenhändler hat.
+c) Wenn sie ins Patronenlager eingeführt werden kann.
+
+2.1.33
+a*) Ein Schalldämpfer verringert den Mündungsknall.
+b*) Ein Schalldämpfer kann die Mündungsgeschwindigkeit des Geschosses beeinflussen.
+c*) Ein Schalldämpfer kann die Präzision der Waffe beeinflussen.
+
+2.1.34
+a*) Er verringert den Mündungsknall beim Schuss.
+b) Er verstärkt den Rückstoß beim Schuss.
+c) Er verringert den Geschossknall.
+
+2.1.36
+a) Er verringert den Mündungsknall beim Schuss.
+b*) Er verstärkt den Rückstoß beim Schuss.
+c*) Er verringert den Geschossknall.
+
+2.1.37
+a*) Eine Vorrichtung am Waffenlauf, die das Hochschlagen beim Schuss verringern soll.
+b) Eine Vorrichtung im Verschluss von halbautomatischen Waffen, die den Rückstoß verringern soll.
+c) Eine Vorrichtung am Magazin, die dessen Kapazität erhöht.
+
+2.1.38
+a) Wechsellauf, der anstelle des Laufes in die Verschlusshülse der Waffe eingesetzt und durch Einstecken befestigt wird.
+b*) Ein Lauf ohne eigenen Verschluss, der in die Läufe von Waffen größeren Kalibers eingesteckt werden kann.
+c) Ein Lauf mit eigenem Verschluss, der in die Läufe von Waffen größeren Kalibers eingesteckt werden kann.
+
+2.1.39
+a*) Ein Gerät, das mit Montagevorrichtung für Schusswaffen versehen ist und durch Bildwandler oder mittels elektronischer Verstärkung ein Zielen bei Nacht ermöglicht.
+b) Ein Zielfernrohr mit besonders großen Linsen, das ein Erkennen des Zieles auch bei schlechten Lichtverhältnissen ermöglicht.
+c) Eine selbstleuchtende oder fluoreszierende Visiereinrichtung, die ein Zielen auch bei Dunkelheit ermöglicht.
+
+2.1.40
+a) Den Außendurchmesser eines Laufes.
+b*) Den Innendurchmesser des Laufes.
+c*) Den Durchmesser des Einzelgeschosses.
+
+
+2.1.42
+a) Durchmesser der Hülse
+b*) Innendurchmesser des Laufes
+c) Außendurchmesser des Laufes
+
+2.1.43
+a*) Ja
+b) Nur mit Genehmigung des Schießleiters.
+c) Nein
+
+2.1.44
+a*) Weil es verschiedene 9 mm-Patronen gibt.
+b) Weil die Kaliberangabe in der Regel nie ganz exakt ist, sondern auf gerundeten Werten beruht.
+c) Weil die Kaliberangabe keine Information über die zulässigen Treibladungsmittel (Schwarz- oder Nitrozellulosepulver) enthält.
+
+2.1.45
+a) Pistolen, deren Abzug jedes Mal vorgespannt werden muss.
+b) Pistolen, bei denen nur der erste Schuss mittels Spannabzug abgefeuert wird.
+c*) Pistolen, bei denen jeder Schuss mittels Spannabzug abgefeuert wird.
+
+2.1.46
+a*) Büchsen
+b) Doppelflinten
+c*) Pistolen
+
+2.1.47
+a*) Eine Waffe mit Spannabzug (auch im entspannten Zustand kann durch Betätigen des Abzugs ein Schuss abgegeben werden).
+b) Eine Waffe, die für mindestens zwei Schießsportdisziplinen zugelassen ist.
+c) Eine Waffe, bei der durch Betätigen der Sicherung im gespannten Zustand sowohl der Hahn (das Schlagstück) entspannt, als auch der Schlagbolzen gesichert wird.
+
+2.1.48
+a*) liegt in der Regel an der Spitze der Bleikern frei.
+b) ist das Geschoss immer verkupfert.
+c) liegt nur am Geschossboden der Bleikern frei.
+
+2.1.49
+a) Glatte Läufe
+b*) Gezogene Läufe
+c) Polygonläufe
+
+2.1.50
+a*) gezogenen Läufen.
+b) glatten Läufen.
+c) gezogenen wie glatten Läufen.
+
+2.1.51
+a) größer.
+b*) kleiner.
+c) gleich groß.
+
+2.1.52
+a) Auf jeden Fall.
+b*) Nein
+c) Nur halbautomatische Pistolen.
+
+2.1.53
+a) Die Betätigung erfolgt z.B. durch: Schieber, Druckknopf, Hebel, Flügel
+b) Die Sicherung wirkt auf: Abzug, Stange, Schlagstück, Schlagbolzen
+
+2.1.55
+a) Er soll die Waffe gegen Wegnahme sichern.
+b) Er soll den Rückstoß mindern.
+c*) Er soll das Patronenlager nach hinten abschließen.
+
+2.1.56
+a*) durch jeweiliges Betätigen des Abzuges.
+b) durch einmaliges Betätigen des Abzuges.
+c) nach erneutem manuellen Spannen.
+
+2.1.57
+a*) Ein Einstecklauf ist ein Lauf ohne eigenen Verschluss, der in einen Lauf von Waffen größeren Kalibers eingesteckt werden kann, um Munition mit einem kleineren Kaliber verschießen zu können.
+b) Ein Einstecklauf ist ein Lauf mit eigenem Verschluss, mit dem ein kleineres oder größeres Kaliber verschossen werden kann.
+
+2.1.58
+a) oben / unten
+b*) unten / oben
+c) rechts / links
+
+2.1.59
+a) 200 - 300 m/s
+b*) 700 – 1000 m/s
+c) 1500 – 1700 m/s
+
+2.1.60
+a) Geschossenergie
+b) Höchstreichweite des Geschosses
+c*) Geschossgeschwindigkeit
+
+2.1.61
+a) Die Fluggeschwindigkeit rotierender Schrote nahe dem Nullpunkt.
+b) Die Geschossgeschwindigkeit reduziert sich auf Null.
+c*) Die Geschossgeschwindigkeit beim Verlassen der Mündung.
+
+2.1.62
+a*) Geschossgeschwindigkeit 100 Meter vor der Mündung.
+b) Gefahrenbereich des Geschosses bei 100 Metern.
+c) Geschossenergie 100 Meter vor der Mündung.
+
+2.1.63
+a) 1000 x Schrotgröße in mm.
+b*) 100 x Schrotgröße in mm.
+c) 10 x Schrotgröße in mm.
+
+2.1.64
+a) Bleigeschoss
+b*) Vollmantelgeschoss
+c) Teilmantelgeschoss
+
+2.1.65
+a) Die Strecke zwischen Schützenstand und Geschossfang.
+b) Das Produkt aus Treibladung und Geschossgewicht.
+c*) Die Entfernung zwischen Laufmündung und maximal entferntem Auftreffpunkt des Geschosses.
+
+2.1.66
+a) 3000 m.
+b*) 5000 m.
+c) 7000 m.
+
+2.1.67
+a) 1500 m
+b) 3000 m
+c*) 2000 m
+
+2.1.68
+a) 1500 m.
+b*) 2000 m.
+c) 1000 m.
+
+2.1.69
+a) 150 m
+b*) 200 m
+c) 250 m
+
+2.1.70
+a) 1000 m.
+b*) 1500 m.
+c) 2000 m.
+
+2.1.71
+a*) .22lr
+b) .32 S&W Long N.P. (Wadcutter).
+c*) 9 mm Luger.
+
+2.1.72
+a*) Die Höchstreichweite
+b) Den Streukreis
+c) Die günstigste Schussentfernung
+
+2.1.74
+a) Gasdruck
+b) Geschossflugbahn
+c*) Abzugsgewicht
+
+2.1.75
+a*) Mit Wettereinflüssen
+b*) Mit der Geschossflugbahn
+c*) Mit der Geschossform
+
+2.1.76
+a*) Mit dem rotationslosen Geschossweg.
+b) Mit der Strecke zwischen Patronenlager und Auftreffpunkt.
+c*) Mit dem Gasdruckverlauf.
+
+2.1.77
+a) Eine schlechte Schießleistung.
+b*) Die Abweichung einer Reihe von Treffern zueinander bei gleichem Haltepunkt.
+c) Die Verformung des Geschosses beim Aufprall.
+
+2.1.78
+a*) Das Geschoss beschreibt auf seiner Flugbahn eine ungleichförmige Kurve, die mit zunehmender Entfernung von der Mündung immer steiler abfällt.
+b) Das Geschoss steigt auf seiner Flugbahn bis zur Mitte auf und fällt zum Ziel ebenso ab.
+c) Die Visierlinie ist gleichzeitig auch die Flugbahn des Geschosses.
+
+2.1.79
+a) Die maximale Höhe eines Geschosses in der sogenannten „ballistischen Kurve“.
+b) Gefahrenbereich des Geschosses bei höchster Steigung.
+c*) Die Entfernung zwischen Laufmündung und Scheitelpunkt der Geschossbahn bei senkrecht nach oben abgegebenem Schuss.
+
+2.1.80
+a) Geschossgeschwindigkeit auf 100 m.
+b) Steighöhe des Geschosses (Gefahrenbereich).
+c*) Bewegungsenergie des Geschosses beim Verlassen des Laufes.
+
+2.1.81
+a) Je geringer das Geschossgewicht und die -härte, desto tiefer das Eindringen.
+b*) Je größer die Querschnittsbelastung, je härter das Geschoss, desto tiefer das Eindringen bei gleicher Auftreffenergie und gleichem Zielmedium.
+c) Je schwerer und stumpfer das Geschoss, desto größer ist die Geschwindigkeit und das Eindringen.
+
+2.1.82
+a*) Das Flugverhalten des Geschosses wird erheblich stabilisiert.
+b) Die Reichweite des Geschosses verkürzt sich erheblich.
+c) Die Bewegungsenergie des Geschosses erhöht sich erheblich.
+
+2.1.84
+a) Die Länge eines gezogenen Laufes.
+b*) Die Strecke, auf der sich das Geschoss einmal um seine eigene Längsachse dreht.
+c) Die Länge eines speziell gehärteten Laufes einer Schusswaffe.
+
+2.1.85
+a) Fluggeschwindigkeit rotierender Schrote.
+b) Die mathematisch festgelegte Energie des rotierenden Geschosses bei verlassen des Laufes.
+c*) Die Drehung des Geschosses um seine Längsachse.
+
+2.1.86
+a) Das verbrannte Pulver erzeugt den Knall im Inneren der Schusswaffe.
+b*) Durch die Expansion der vor dem Geschoss komprimierten Luft bei überschallschnellen Geschossen.
+c) Das nicht vollständig verbrannte Pulvergas vermischt sich mit Sauerstoff und bewirkt den Knall.
+
+2.1.87
+a*) Durch die mit Überschallgeschwindigkeit austretenden Gase.
+b) Die dem Geschoss folgenden Pulvergase stoßen auf die kalte Umgebungsluft.
+c) Durch das nicht vollständig verbrannte Pulver.
+
+2.1.88
+a) Damit eine bessere Montage der Visiereinrichtung erfolgen kann.
+b*) Weil in diesem Bereich der höchste Gasdruck auftritt.
+c) Weil in diesem Bereich Hersteller, Beschusszeichen und Nummer am besten sichtbar angebracht werden können.
+
+2.1.89
+a) Visiereinrichtung für Spezialgewehre
+b) Vorderschaft einer „Pump Action“
+c*) Verschlusskasten einer Kipplaufwaffe
+
+2.1.91
+a) Ein Büchsenmacher macht mehrere wesentliche Teile dauerhaft unbrauchbar und bringt sein Markenzeichen auf der Dekorationswaffe an.
+b) Ein Waffenhändler macht alle wesentlichen Teile vorübergehend unbrauchbar und bringt ein Beschusszeichen auf der Dekorationswaffe anbringen.
+c*) Der Inhaber einer Waffenbearbeitungs- oder Waffenherstellungserlaubnis macht alle wesentlichen Teile gemäß den Vorgaben der Durchführungsverordnung (EU) 2015/2403 (Deaktivierungsdurchführungsverordnung) unbrauchbar und lässt vom Beschussamt das Zulassungszeichen anbringen. Das Beschussamt stellt überdies eine Deaktivierungsbescheinigung aus.
+
+2.1.92
+a) Wenn die Waffe mit einem Blockiersystem vorübergehend blockiert wurde.
+b*) Wenn sie gemäß ihrem Waffentyp und in jedem wesentlichen Bestandteil den Maßgaben Durchführungsverordnung (EU) 2015/2403 (Deaktivierungsdurchführungsverordnung) entsprechen.
+c) Wenn der Lauf der Waffe verzogen ist.
+
+3.1.01
+a) Niemals
+b) Ja
+c*) Nein, außer bei Notwehr.
+
+3.1.02
+a) geladen, gesichert
+b) geladen, ungesichert
+c*) ungeladen
+
+3.1.03
+a*) Druckluftwaffen mit dem Zulassungszeichen „F im Fünfeck“ und Softairwaffen.
+b) Mit Waffen für Randfeuermunition bis Kaliber .22lr (= lfB).
+c*) Mit Waffen (z.B. im „Kleinstkaliber“ 4 mm M20), sofern diese das Zulassungszeichen „F im Fünfeck“ und das Zulassungszeichen „PTB im Viereck“ tragen.
+
+3.1.04
+a) In den Hausmüll werfen.
+b*) Beim Waffenhändler abgeben.
+c) In den Sondermüll geben.
+
+3.1.05
+a) Alles, was ins Patronenlager passt.
+b*) Munition, für die diese Waffe konstruiert und zugelassen ist.
+c) Nur Zentralfeuermunition
+
+3.1.06
+a) Geschoss abziehen, Pulver in Wasser auflösen, Rest in Hausmüll geben.
+b) Als Sondermüll / Gefahrstoff bei der örtlichen Annahmestelle abgeben.
+c*) An den Verkäufer / Hersteller oder einen Delaborierbetrieb geben.
+
+3.1.07
+a) bis zu 1000 Patronen je Kauf / Lieferung
+b) bis zu 5 kg Nettoexplosivmasse je Kauf / Lieferung
+c*) unbegrenzt
+
+3.1.09
+a) Die geladene Waffe ist zu sichern, der Ladezustand ist mitzuteilen.
+b) Aus der geladenen Waffe ist das Magazin zu entnehmen, der Ladezustand ist mitzuteilen.
+c*) Ungeladen, mit geöffnetem Verschluss.
+
+3.1.10
+a*) Die Waffe ist sofort auf ihren Ladezustand zu überprüfen.
+b) Es genügt die Sicherung der Waffe auf ihre Funktionssicherheit zu prüfen.
+c) Die Waffe ist sofort zu zerlegen und auf Beschädigungen zu prüfen. Außerdem sollten die Beschusszeichen in Augenschein genommen werden.
+
+3.1.11
+a*) Waffe auf sichtbare Beschädigungen prüfen.
+b*) Überprüfen, ob das Patronenlager und der Lauf frei von Fremdkörpern sind.
+c*) Prüfen, ob die bereitgestellte Munition aus dieser Waffe verschossen werden darf.
+
+3.1.12
+a*) Nur auf dem Schützenstand.
+b) Auf dem gesamten Schießstand.
+c) Im Aufenthaltsraum.
+
+3.1.13
+a*) Ja, bei Waffenstörung der verantwortlichen Aufsichtsperson.
+b) Nur an den Nachbarschützen.
+c) Nein, auf keinen Fall.
+
+3.1.14
+a*) Das ist waffenrechtlich erlaubt.
+b) Nein, das ist verboten.
+c) Nein, ich darf nur mit sogenannten Spielgeräten (Energie 0,08 J) außerhalb von Schießständen schießen.
+
+3.1.15
+a) Ja, wenn sie funktionssicher sind.
+b*) Nein.
+
+3.1.16
+a) Nur im Wettkampf.
+b) Nur bei Gefahr im Verzug.
+c*) Immer
+
+3.1.17
+a) Ja, da er umfangreiche Fachkenntnisse besitzt.
+b*) Nein, geladene Waffen dürfen nicht übergeben werden.
+c) Ja, wenn er Anfänger unterweist.
+
+3.1.18
+a) Gesichert, mit einem Tragriemen auf der Schulter.
+b*) Ungeladen, mit geöffnetem Verschluss.
+c) Geschlossen und gesichert.
+
+3.1.19
+a*) Entladen, mit geöffnetem Verschluss, Magazin entnommen.
+b) Unterladen, mit der Mündung nach oben.
+c) Gesichert, mit geschlossenem Verschluss.
+
+3.1.20
+a*) Nur mit Erlaubnis des Besitzers.
+b) Nur mit Erlaubnis des Schießleiters.
+c) Ja, wenn sie entladen ist, immer.
+
+3.1.21
+a) Ja, wenn die Schusswaffe gesichert ist.
+b) Nur mit Erlaubnis des Schießleiters.
+c*) Nein, nur die entladene und geöffnete Waffe darf abgelegt werden.
+
+3.1.22
+a) Wenn sich niemand mehr vor dem Ziel aufhält.
+b*) Wenn die verantwortliche Aufsichtsperson das Schießen freigegeben hat.
+c) Wenn alle Schützenstände belegt sind.
+
+3.1.23
+a) Ja, nur einem Mitglied des Schützenvereins.
+b*) Ja, aber nur zum sofortigen Verbrauch.
+c) Nein
+
+3.1.24
+a) Ja, dies ist nur nach Anleitung des Schießleiters zulässig.
+b) Ja, wenn eine entsprechende Ladeecke eingerichtet wurde.
+c*) Nein, dies ist nur auf dem Schützenstand erlaubt.
+
+3.1.25
+a) Ja, aber nur zur Mitnahme nach Hause.
+b*) Ja, nur zum Schießen auf einer Schießstätte.
+c) Nein, unter keinen Umständen.
+
+3.1.26
+a) Geladen, entspannt und gesichert.
+b) Entladen, nur mit leerem Magazin, Verschluss geschlossen.
+c*) Verschluss offen, Lauf Richtung Geschoßfang, leeres Patronenlager, leeres Magazin (entfernt von Waffe).
+
+3.1.27
+a*) Die Waffe ist nach jedem Schuss wieder schussbereit, solange sich Patronen im Magazin befinden.
+b) Nichts besonderes, wenn die Waffe eine Sicherung hat.
+c) Die Waffe ist sofort nach Schussabgabe zu sichern.
+
+3.1.28
+a*) Nein.
+b) Ja, wenn die Geschosse das Grundstück nicht verlassen können.
+c) Ja, wenn Personen oder Sachen nicht gefährdet werden können.
+
+3.1.29
+a) Nur mit schallgedämpften Waffen (Immissionsschutz).
+b) Mit allen, vorausgesetzt es ist ein ausreichender Kugelfang vorhanden, so dass die Geschosse das Besitztum nicht verlassen können.
+c*) Mit bauartzugelassenen Schusswaffen, deren Geschossen eine Energie von max. 7,5 Joule erteilt wird und die Geschosse das Besitztum nicht verlassen können.
+
+3.1.30
+a*) Es darf nur unter Aufsicht geschossen werden (ausgenommen die zur Aufsichtsführung befähigte Person schießt alleine).
+b*) Es darf nur mit für den Stand zugelassenen Waffen und Munition geschossen werden.
+c*) Sportliches Schießen liegt dann vor, wenn nach festen Regeln einer genehmigten Sportordnung geschossen wird.
+
+3.1.31
+a*) Eine verantwortliche Aufsichtsperson muss anwesend sein.
+b) Die Waffen müssen geladen werden.
+c*) Waffen und Munition müssen der Standzulassung entsprechen.
+
+3.1.32
+a*) Nein
+b) Ja, weil Alkohol beim Zielen hilft.
+c) Ja, aber nur mit Langwaffen.
+
+3.1.33
+a) Auf Schießstätten ist eine Aufbewahrung nicht zu beachten.
+b*) Ungeladen und getrennt von der Munition.
+c*) So, dass sie nicht in den Besitz Unberechtigter gelangen können.
+
+3.1.34
+a) In diesem Bereich darf auf dem Schießstand nicht geschossen werden.
+b) Schützen, die mit großkalibrigen Waffen schießen, haben einen Gefahrenbereich von 4 m. In diesem Bereich darf sich kein Zuschauer aufhalten.
+c*) Es handelt sich hierbei um die Höchstreichweite von aus Schusswaffen abgefeuerten Geschossen.
+
+3.1.35
+a*) Die Höchstreichweite von aus Schusswaffen abgefeuerten Geschossen.
+b*) Der Bereich, in dem Menschen oder Sachen gefährdet werden können.
+c) Der unmittelbare Bereich hinter dem Schützen.
+
+3.1.36
+a) Ja, aber nur mit Zentralfeuerpatronen.
+b) Nein
+c*) Ja, wenn der Einstecklauf bauartzugelassen ist.
+
+3.1.37
+a) den Verschluss öffne und das Magazin entleere.
+b) den Verschluss öffne, das Patronenlager entferne, den Verschluss schließe und das Magazin entnehme.
+c*) das Magazin entnehme, den Verschluss öffne und das Patronenlager entleere.
+
+3.1.38
+a) Erst nachsehen, ob das Patronenlager frei ist, dann das Magazin entnehmen und durch Abdrücken das Schlagstück entspannen.
+b*) Erst das Magazin entnehmen, Verschluss öffnen, dann das Patronenlager überprüfen; wenn leer, die Waffe, soweit möglich, mit offenem Verschluss ablegen.
+c) Erst entspannen, sichern, das Magazin entnehmen, ablegen.
+
+3.1.39
+a) Trommel ausbauen
+b*) 1.Trommel ausschwenken bzw. Ladeklappe öffnen 2. alle Kammern entleeren
+c) Trommel ausschwenken und eine volle Patrone entnehmen
+
+3.1.40
+a) Wegen der automatischen Sicherung nichts.
+b*) Eine weitere Schussbereitschaft nach Abgabe eines Schusses ist möglich.
+c) Ein erneutes Entsichern ist erforderlich.
+
+3.1.41
+a*) Nein
+b) Ja
+c) Nur, wenn die Waffe auch das Zeichen „J“ trägt.
+
+3.1.42
+a) gesichert und gespannt.
+b*) entladen und mit geöffnetem Verschluss.
+c) mit sichtbarer Sicherung.
+
+3.1.43
+a*) Die Waffe mit der Mündung mindestens 10 Sekunden in Richtung Geschossfang halten, dann die Waffe entladen.
+b) Waffe öffnen und Patrone weit wegwerfen.
+c) Waffe nach oben halten und auf das Brechen des Schusses warten.
+
+3.1.44
+a*) Die Mündung der Waffe ist in Richtung Scheibe / Geschossfang zu richten.
+b) Die Waffe ist senkrecht nach unten zu richten.
+c) Beliebig, um eine möglichst bequeme Handhabung zu ermöglichen.
+
+3.1.45
+a*) Mit der Mündung zum Geschossfang.
+b) So wie es die Schießaufsicht gerade möchte.
+c) Fest in der Hand, damit der Rückschlag nicht die Waffe aus der Hand schlägt.
+
+3.1.46
+a*) Keine Sicherung ist als absolut zuverlässig zu betrachten.
+b*) Waffen sind stets entladen zu transportieren und aufzubewahren.
+c*) Schusswaffen sind immer als geladen zu betrachten, solange man sich nicht persönlich vom Gegenteil überzeugt hat.
+d*) Der Lauf von Schusswaffen darf nie auf einen Menschen gerichtet werden.
+
+3.1.47
+a*) Kennzeichnung auf Schusswaffe und Munitionsverpackung / Patronenhülse identisch.
+b) An den Beschuss- und Prüfzeichen auf Waffe und Munitionsverpackung.
+c) An der Gebrauchsanleitung des Waffenhändlers.
+
+3.1.48
+a) Sobald die Aufsichtsperson den Schießstand öffnet.
+b*) Wenn die verantwortliche Aufsichtsperson das Schießen freigegeben hat.
+c) Sobald Munition und Scheiben vorhanden sind.
+
+3.1.49
+a) Zuschauer
+b*) Aufsicht
+c*) Schießleiter
+
+4.1.04
+a*) Die Signalpistole Kaliber 4 (26,5 mm)
+b*) Signalwaffen mit Zulassung der Physikalisch-Technischen Bundesanstalt (PTB)
+c*) die von der Bundesanstalt für Materialforschung und -prüfung (BAM) zugelassenen sonstigen Notsignale.
+
+4.1.05
+a*) Reibkopf-Zündung – funktioniert wie ein Streichholz, zündet mit einer Verzögerung direkt den Leuchtsatz (nicht mehr im deutschen Handel)
+b) Luntenzünder – durch das Entzünden einer Lunte wird nach gewisser Zeit der eigentlichen Signalsatz gezündet.
+c*) Reißzünder – ein Draht im Inneren wird durch einen reibempfindlichen pyrotechnischen Anzündsatz gezogen, der dann den eigentlichen Signalsatz zündet.
+
+4.1.07
+a*) Die brennende Fackel nach Lee waagerecht so halten, dass versprühter Abbrand keine Verletzungen (Hand, Augen) verursacht oder das Boot/Schiff beschädigt.
+b) Die brennende Fackel nach Luv waagerecht so halten, dass versprühter Abbrand keine Verletzungen (Hand, Augen) verursacht oder das Boot/Schiff beschädigt.
+c*) Gebrauchsanweisung beachten.
+
+4.1.08
+a*) Rauchsignale nur am Tage und bei geringen Windstärken verwenden.
+b*) Die Anzündung erfolgt durch eine Reißschnur, die unter einer abschraubbaren Schutzkappe liegt.
+c*) Nach der Zündung ist das Rauchsignal zur Leeseite außenbords zu werfen.
+
+4.1.09
+a*) Signalraketen und Fallschirmraketen
+b) Rauchtöpfe und Bengalische Feuer
+c*) Handfackeln und Rauchsignale
+
+4.1.10
+a) An Silvester zum Abschuss von Leuchtfeuerwerk.
+b*) Als Abschussgerät für einen Trägerkörper zur Herstellung einer ersten Leinenverbindung.
+c*) Die Verwendung als Startpistole ist im Rahmen von Regatten erlaubt, wenn eine Schießerlaubnis vorliegt
+
+4.1.12
+a*) Rot
+b) Weiß
+c) Grün
+
+4.1.13
+a*) In Notfällen, wenn unter anderem Leib und Leben von Personen in Gefahr sind und dringend fremde Hilfe benötigt wird.
+b*) In Notfällen, wenn bedeutende Sachwerte in Gefahr sind und dringend fremde Hilfe benötigt wird.
+c) Ausschließlich wenn alle anderen Kommunikationsmittel ausgefallen sind.
+
+4.1.14
+a) Die Verbrauchsdauer ist unbegrenzt.
+b*) Soweit auf dem einzelnen Gegenstand nichts anderes vermerkt ist, max. 3 Jahre.
+c) Maximal 10 Jahre
+
+4.1.15
+a*) Feuchtigkeit und Korrosion
+b*) hohe Lagertemperaturen
+c*) mechanische Beschädigung
+
+4.1.16
+a) Können über den Hausmüll entsorgt werden.
+b*) Über den Munitionshandel zurückgeben oder Delaborierbetrieben übergeben.
+c) Können auch als Feuerwerkskörper verwenden werden.
+
+4.1.17
+a) Drei Jahre ab Kauf im Fachhandel.
+b) Fünf Jahre ab Herstellung im Werk.
+c*) Das Verfallsdatum ist auf der Munition und/oder der Verpackung angebracht.
+
+4.1.18
+a*) Durch Rückgabe an den Fachhandel.
+b) Durch Abgabe bei einer Sondermüllund Gefahrstoffsammelstelle.
+c) Öffnen der Patrone, Durchfeuchten des Inhaltes mit Wasser, dann wie b).
+
+4.1.19
+a) Keine bestimmte Lagerung erforderlich.
+b*) Möglichst originalverpackt, kühl und trocken in einem Metallbehältnis mit Schwenkriegelschloss.
+c) Die Munition darf keinesfalls an Bord gelagert werden.
+
+4.1.20
+a*) In einem mit dem Schiffskörper sicher verankertem Behältnis aus Stahlblech. Die Tür muss mindestens 4mm dick und elektronisch oder mechanisch verriegelt sein (sog. Hamburger Kasten).
+b) Die Signalpistole kann frei zugänglich an Bord gelagert werden.
+c) Die Signalpistole darf keinesfalls an Bord gelagert werden.
+
+4.1.21
+a) Einer Person mit bestandener Sachkundeprüfung.
+b*) Nur einem Berechtigten, z.B. mit Waffenbesitzkarte.
+c) Einer zuverlässigen Person, die mindestens 18 Jahre alt ist.
+
+4.1.22
+a) In einem Behältnis der Sicherheitsstufe A (VDMA 24992).
+b*) In einem Behältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I. Bei Fortführung einer Nutzung eines Behältnisses der Sicherheitsstufe B nach VDMA 24992, die vor dem 06.07.2017 begründet werden, kann dieses Behältnis weitergenutzt werden.
+c) In einem Stahlblechschrank mit Schwenkriegelschloss.
+
+4.1.23
+a*) Eine Aufbewahrung an Bord ist nur mit einer speziellen behördlichen Erlaubnis möglich.
+b*) Eine Aufbewahrung an Land in einem Behältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I. Bei Fortführung einer Nutzung eines Behältnisses der Sicherheitsstufe B nach VDMA 24992, die vor dem 06.07.2017
+begründet werden, kann dieses Behältnis weitergenutzt werden.
+c) In einem Stahlblechschrank mit Schwenkriegelschloss.
+
+4.1.24
+a) Munition darf nicht an Land aufbewahrt werden.
+b) Es gibt keine Auflagen für die Aufbewahrung von pyrotechnischer Munition.
+c*) Mindestens in einem Stahlblechbehältnis (klassifizierungsfrei), das mit einem Schwenkriegelschloss oder einem gleichwertigen Verschluss gesichert ist, oder in einem gleichwertigen Behältnis.
+
+4.1.26
+a) Wie bei einem längeren Aufenthalt im Hafen.
+b*) Zugriffsbereit in der Nähe der Signalwaffe.
+c) Nicht zugriffsbereit, in größerer Entfernung zur Signalwaffe.
+
+4.1.27
+a*) Mit entsprechendem Voreintrag zum Erwerb, sowie zum Besitz einer Signalpistole.
+b) Zum Führen der Waffe an Land.
+c*) Zum Erwerb der zur Signalpistole gehörigen Munition bei entsprechendem Eintrag.
+
+4.1.29
+a) Alle
+b) Nur amtlich beschossene Signalwaffen im Kaliber unter 12 mm.
+c*) Nur Signalwaffen mit dem Zulassungszeichen „PTB im Kreis“.
+
+4.1.30
+a*) Innerhalb von 2 Wochen nach dem Erwerb habe ich der zuständigen Behörde den Erwerb schriftlich oder in elektronischer Form anzuzeigen.
+b*) Waffenbesitzkarte der zuständigen Behörde zur Eintragung des Erwerbs mit entsprechenden Erwerbsnachweisen (Kaufvertrag, Überlassungsvertrag etc.) vorlegen.
+c) Es ist keine weitere Handlung erforderlich.
+
+4.1.32
+a*) Der Antragsteller muss das 18. Lebensjahr vollendet haben.
+b*) Der Antragsteller muss zuverlässig, sachkundig und persönlich geeignet sein, und ein amts- oder fachärztliches oder fachpsychologisches Zeugnis vorlegen, sofern das 25. Lebensjahr noch nicht vollendet ist.
+c*) Es muss ein Bedürfnis vorliegen (Inhaber eines seegängigen Wasserfahrzeugs).
+
+4.1.33
+a*) Durch Vorlage von Unterlagen, aus denen der Besitz eines seegängigen Wasserfahrzeugs (Kaufvertrag, Chartervertrag, Versicherungspolice, Standerschein, Internationaler Bootsschein usw.)
+b) Durch Vorlage eines Sportbootführerscheins.
+c*) Durch Vorlage von Unterlagen, aus denen die Notwendigkeit für Lehr- und Prüfungszwecke hervorgeht.
+
+4.1.34
+a*) Die Waffenbesitzkarte mit entsprechender Munitionserwerbsberechtigung.
+b*) Ein entsprechender Munitionserwerbsschein.
+c) Ein Kleiner Waffenschein.
+
+4.1.35
+a*) Die der Unterklasse P1, d.h. „Handfackeln rot“ und bestimmte Rauchsignale, Abschussgeräte ohne Schusswaffeneigenschaft.
+b*) Seenotsignalgeber mit einer Steighöhe von bis etwa 60 Metern (Signalgeber und ihre Munition, die nicht dem WaffG unterliegen)
+c) Die der Unterklasse T2, d.h. „Signalraketen rot“, „Fallschirmsignalraketen rot“ und bestimmte Rauchsignale.
+
+4.1.38
+a*) Nein, hierfür ist eine Waffenbesitzkarte mit eingetragener Munitionserwerbsberechtigung für das Kaliber 4 erforderlich.
+b) Nein, hierfür ist eine Waffenbesitzkarte mit einer eingetragenen Signalwaffe im Kaliber 4 erforderlich.
+c) Ja, die Waffenbesitzkarte wird nur für den Waffenerwerb benötigt und dient als Legitimation für den Waffenbesitz.
+
+4.1.39
+a) PTB im Kreis (PhysikalischTechnischen Bundesanstalt)
+b*) BAM-Zeichen (Bundesanstalt für Materialforschung und –prüfung)
+c) Bundesadler, B (Böllerbeschuss)
+
+4.1.40
+a*) P 1 (Bsp.: Handfackeln)
+b) SM 1 (Signalmunition der Klasse 1)
+c*) P 2 (Bsp.: Signalraketen bzw. Fallschirmsignalraketen mit einer Steighöhe von bis zu 300 Metern)
+
+4.1.42
+a*) Leuchtsignale rot
+b*) Rauchsignale orange
+c) Leuchtsignal gelb
+
+4.1.44
+a*) freies Schussfeld
+b*) Windrichtung und Abschusswinkel
+c*) keine entflammbaren Gegenstände im Gefahrenbereich
+
+4.1.46
+a*) Verbrauchsdauer/Verfallsdatum beachten.
+b*) Auf Korrosion oder Beschädigung prüfen.
+
+4.1.48
+a*) Steighöhe mindestens 300 m, Leuchtdauer mindestens 30 Sekunden.
+b) Steighöhe mindestens 100 m, Leuchtdauer mindestens 10 Sekunden.
+c) Steighöhe mindestens 50 m, Leuchtdauer mindestens 50 Sekunden.
+
+4.1.50
+a*) Jeder, der damit anzeigen will, dass ein Seenotfall vorliegt, d. h. unter anderem, dass Gefahr für Leib oder Leben der Besatzung und daher die Notwendigkeit zur Hilfe besteht.
+b) An Silvester dürfen die Signale uneingeschränkt verwendet werden.
+c) Jeder, der damit anzeigen will, dass ein Seenotfall vorliegt, obwohl keine Notwendigkeit zur Hilfe mehr besteht.
+
+4.1.51
+a) 5-10 Sekunden
+b) 5 Minuten
+c*) 30 bis 60 Sekunden
+
+4.1.53
+a*) Fallschirmsignalraketen werden verwendet, um weit entfernte Helfer auf eine Notlage aufmerksam zu machen und grob in die Richtung einzuweisen.
+b*) Handfackeln werden verwendet, um die genaue Position bei Annäherung kenntlich zu machen.
+c) Handfackeln sind ausschließlich Nachts zu verwenden.
+
+4.1.55
+a) Die Waffe verschießt Patronen mit einer Hülsenlänge von 4“ (Zoll).
+b) Die Waffe verschießt Munition mit einem Geschossdurchmesser von 4 cm.
+c*) Die Zahl „4“ bezeichnet die Anzahl der Bleikugeln vom Laufdurchmesser, die zusammen ein englisches Pfund (453,6 Gramm) wiegen. Das entspricht einem Laufinnendurchmesser von ca. 26,5 mm.
+
+4.1.56
+a) Alle 3 Jahre
+b) Alle 10 Jahre
+c*) Wenn wesentliche Waffenteile ausgetauscht oder instand gesetzt wurden
+
+4.1.57
+a) Bis zu 50 Metern
+b*) Bis zu 300 Metern
+c) Bis zu 200 Metern
+
+4.1.58
+a*) Nein
+b) Ja, ich muss die Signalwaffe dann aber durch ein Beschussamt neu beschießen lassen.
+c) Ja, sofern der Rohrinnendurchmesser um mindestens dreizehntel (3/10) Millimeter größer ist als das Munitionskaliber und zudem das Rohr eine Wandstärke von mindestens 2 Millimetern aufweist und gasdicht ist.
+
+4.1.59
+a) Nein
+b) Nur, wenn es sich um militärische Munition handelt.
+c*) Ja
+
+4.1.60
+a) Personen mit bestandener Sachkundeprüfung dürfen pyrotechnische Gegenstände bearbeiten.
+b*) Nein, nur als Inhaber einer entsprechenden Erlaubnis nach dem Sprengstoffgesetz.
+c) Jeder darf herstellen und bearbeiten.
+
+4.1.61
+a*) Die Signalpistole (Kaliber 4) und die hierfür bestimmte Munition (nur mit WBK).
+b) Seenotsignalgeber mit einer Steighöhe von bis etwa 60 Metern (frei erwerblich ab 18 Jahre)
+c) Handfackeln (frei erwerblich ab 18
+Jahre)
+
+4.1.62
+a) Die missbräuchliche Verwendung stellt in Deutschland nur eine Ordnungswidrigkeit dar.
+b*) Die missbräuchliche Verwendung stellt in Deutschland ein Vergehen dar (Missbrauch von Notzeichen gemäß § 145 StGB und/oder Verstoß gemäß Waffengesetz).
+c*) Der Missbrauch kann auch weltweit enorme Schadenersatzforderungen nach sich ziehen.
+
+4.1.63
+a*) Alle pyrotechnischen Seenotsignale, die nicht aus einer Signalpistole abgefeuert werden, wie Signalraketen, Handsignalraketen mit Fallschirm, Handfackeln und Rauchsignale.
+b) Nur die Signale, in denen explosive Stoffe verwendet wurden.
+c) Signalmunition im Kaliber 4
+
+4.1.64
+a) BAM P I
+b*) BAM PM I
+c*) BAM PM II
+
+4.1.70
+a) Alle Leuchtraketen, die einen eigenen Treibsatz beinhalten.
+b*) Alle Signalpistolen und Abschussvorrichtungen, sowie die für diese bestimmte Munition.
+c) Alle steigenden Signale, die einen Durchmesser von mehr als 12 mm aufweisen.
+
+4.1.71
+a*) Handfackeln und Rauchkörper
+b*) Handsignalraketen mit Fallschirm
+c) Blitz-Knall-Patronen im Kaliber 4
+
+4.1.73
+a) Sofort eine neue Patrone laden und erneut versuchen zu schießen.
+b) Waffe einem anderen Besatzungsmitglied geben, damit eine Fehlbedienung ausgeschlossen werden kann. Waffe nach frühestens 5 Minuten entladen.
+c*) Waffe in Schussrichtung belassen, über Kopf erneut spannen und nochmals abdrücken, bei erneutem Versagen die Waffe mit nach oben gerichtetem Lauf frühestens nach 1 Minute nach außenbords öffnen und den Versager herausgleiten lassen.
+
+4.1.74
+a) Wieder in die Originalverpackung zurücklegen.
+b) An einer freien Stelle über Deck lagern.
+c*) Über Bord werfen.
+
+4.1.77
+a) entladen, entspannt, gesichert
+b) entladen, entspannt, von der Munition getrennt
+c*) entladen, verpackt, von der Munition getrennt
+
+4.1.78
+a*) Nur berechtigten Personen im Sinne des Waffen- oder Sprengstoffrechts.
+b) Nur Waffenhändlern.
+c) Jeder natürlichen Person.
+
+4.1.79
+a) Volljährigen Personen meines Vertrauens zur sicheren Aufbewahrung.
+b) Feuerwehrleute
+c*) Charterern von seegehenden Wasserfahrzeugen, sofern der Besitz über die Waffe nach den Weisungen des berechtigten Überlassers erfolgt.
+
+4.1.81
+a) Ja, aber nur durch den Erlaubnisinhaber selbst innerhalb der amtlich zugelassenen „Abbrennzeit“ (meist 18.00 – 02.00 Uhr), wenn keine brennbaren Objekte in der Nähe sind.
+b) Ja, aber nur wie unter a) beschrieben. Zusätzlich muss der Schütze Inhaber des Kleinen Waffenscheins sein.
+c*) Nein, dieses Schießen bedarf einer besonderen waffenrechtlichen Erlaubnis.
+
+4.1.82
+a) Jedes Besatzungsmitglied.
+b) Alle Inhaber einer Waffensachkundeprüfung.
+c*) Der verantwortliche Führer des Wasserfahrzeugs.
+
+4.1.83
+a*) Jeder
+b) Nur Inhaber einer Waffensachkundeprüfung.
+c) Nur der verantwortliche Führer des betroffenen Wasserfahrzeuges.
+
+4.1.85
+a*) Signalpistole Kaliber 4 (26,5 mm).
+b*) Für Signalwaffen (SRS-Waffen), die kein Bauartzulassungszeichen „PTB im Kreis“ (Physikalisch-Technische Bundesanstalt) tragen.
+c) Signalwaffen (SRS-Waffen), die die Bauartzulassungszeichen „PTB im Kreis“ (Physikalisch-Technische Bundesanstalt) tragen.
+
+4.1.86
+a*) Wenn das Eigentum an einem seegehenden Boot/Schiff nicht mehr nachgewiesen werden kann.
+b) Wenn der Sportbootführerschein seine Gültigkeit verliert.
+c) Wenn er ins Ausland verzieht.
+
+4.1.89
+a) Die Physikalisch-Technische Bundesanstalt (PTB)
+b*) Die Bundesanstalt für Materialforschung und -prüfung (BAM).
+c) Der Technische Überwachungsverein (TÜV)
