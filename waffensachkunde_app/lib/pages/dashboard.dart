@@ -36,8 +36,18 @@ class _DashboardState extends State<Dashboard> {
   }
 
   void onPressedLearn() async {
-    await Navigator.of(context)
-        .push(MaterialPageRoute(builder: (builder) => const Learn()));
+    await Navigator.of(context).push(MaterialPageRoute(
+        builder: (builder) => const Learn(
+              learnRandom: false,
+            )));
+    setState(() {});
+  }
+
+  void onPressedLearnRandom() async {
+    await Navigator.of(context).push(MaterialPageRoute(
+        builder: (builder) => const Learn(
+              learnRandom: true,
+            )));
     setState(() {});
   }
 
@@ -91,6 +101,12 @@ class _DashboardState extends State<Dashboard> {
                   onPressed: onPressedLearn,
                   icon: const Icon(Icons.question_answer),
                   label: const Text("Learn").padding(vertical: 10))
+              .width(200)
+              .padding(top: 20),
+          ElevatedButton.icon(
+                  onPressed: onPressedLearn,
+                  icon: const Icon(Icons.shuffle),
+                  label: const Text("Learn Random").padding(vertical: 10))
               .width(200)
               .padding(top: 20),
           getSessionStats()

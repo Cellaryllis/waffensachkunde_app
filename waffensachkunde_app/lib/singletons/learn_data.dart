@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
 
+import 'package:file_saver/file_saver.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:tuple/tuple.dart';
@@ -146,17 +147,19 @@ class LearnDataManager {
   List<QuestionObject> getQuestions() => _questions;
   List<LearnDataEntry> getOrderedLearnDataEntries() =>
       _learnData.orderedLearnProgress;
-  QuestionObject getNextQuestion() {
-    // Shuffle the data, then order the data, this will randomize keys with the same progress
-    _learnData.orderedLearnProgress.shuffle();
-    sortOrderedLearnData();
+  QuestionObject getNextQuestion(bool random) {
+    if (!random) {
+      // Shuffle the data, then order the data, this will randomize keys with the same progress
+      _learnData.orderedLearnProgress.shuffle();
+      sortOrderedLearnData();
 
-    double rand = Random().nextDouble();
-    for (int i = 0; i < 10; ++i) {
-      rand -= i * .1;
-      if (rand <= 0.0) {
-        return _questions.firstWhere(
-            (element) => element.id == _learnData.orderedLearnProgress[i].id);
+      double rand = Random().nextDouble();
+      for (int i = 0; i < 10; ++i) {
+        rand -= i * .1;
+        if (rand <= 0.0) {
+          return _questions.firstWhere(
+              (element) => element.id == _learnData.orderedLearnProgress[i].id);
+        }
       }
     }
 

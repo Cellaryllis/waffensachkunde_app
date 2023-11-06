@@ -6,7 +6,9 @@ import 'package:waffensachkunde_app/elements/question.dart';
 import 'package:waffensachkunde_app/singletons/learn_data.dart';
 
 class Learn extends StatefulWidget {
-  const Learn({super.key});
+  const Learn({super.key, required this.learnRandom});
+
+  final bool learnRandom;
 
   @override
   State<Learn> createState() => _LearnState();
@@ -25,7 +27,7 @@ class _LearnState extends State<Learn> {
   }
 
   void getNextLearnQuestion() {
-    currentQuestion = LearnDataManager().getNextQuestion();
+    currentQuestion = LearnDataManager().getNextQuestion(widget.learnRandom);
     answerStates = List<bool>.filled(currentQuestion.answers.length, false);
     bAnswering = true;
     if (mounted) {

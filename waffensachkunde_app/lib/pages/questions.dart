@@ -73,7 +73,7 @@ class _QuestionsListState extends State<QuestionsList> {
         max: 30,
         divisions: 30,
         values: sliderValues,
-      ),
+      ).padding(horizontal: 20),
     ]);
   }
 
