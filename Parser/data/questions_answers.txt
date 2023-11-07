@@ -639,8 +639,8 @@ b*) Perkussionsrevolver, deren Modell vor dem 01.01.1871 entwickelt wurde.
 c*) Waffen in 4 mm M20 mit den Zulassungszeichen „F im Fünfeck“ und „PTB im Viereck“.
 
 1.2.60
-a) dem Inhaber einer WBK.
-b*) einer Person des persönlichen Vertrauens.
+a*) dem Inhaber einer WBK.
+b) einer Person des persönlichen Vertrauens.
 c) einer Person mit bestandener Sachkundeprüfung.
 
 1.2.61
